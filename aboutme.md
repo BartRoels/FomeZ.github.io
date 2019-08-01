@@ -9,5 +9,5 @@ I am focusing on Microsoft technologies, especially cloud solutions based on Mic
 
 I live in Belgium togheter with my wife Katrien and my son Joren. I am also a plus dad for Maren and Yentl.
 
-![Image of my family](img/myfamily.jpg)
+![Image of my family](img/myfamily.jpg){: .center-block :}
 
