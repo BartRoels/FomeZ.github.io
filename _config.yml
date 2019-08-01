@@ -22,7 +22,7 @@ description: Bart Roels Blog
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Club Brugge: "https://clubbrugge.be/"
     - Learn markdown: "http://www.markdowntutorial.com/"
  
 
@@ -41,12 +41,14 @@ avatar: "/img/BartRoels062018.jpg"
 navbar-col: "#4d4d4d"
 navbar-text-col: "#ffffff"
 navbar-children-col: "#4d4d4d"
+
 page-col: "#FFFFFF"
 link-col: "#33a0ff"
 hover-col: "#0085A1"
+
 footer-col: "#4d4d4d"
 footer-text-col: "#ffffff"
-footer-link-col: "#33a0ff"
+footer-link-col: "#ffffff"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -93,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://bartroels.github.io/aboutme/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "bartroels.github.io/aboutme/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
