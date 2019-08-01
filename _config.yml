@@ -21,9 +21,9 @@ description: Bart Roels Blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Club Brugge: "https://clubbrugge.be/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+#  Resources:
+#    - Club Brugge: "https://clubbrugge.be/"
+#    - Learn markdown: "http://www.markdowntutorial.com/"
  
 
 # Image to show in the navigation bar - image must be a square (width = height)
