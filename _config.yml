@@ -44,7 +44,7 @@ navbar-children-col: "#4d4d4d"
 
 page-col: "#FFFFFF"
 link-col: "#33a0ff"
-hover-col: "#0085A1"
+hover-col: "#0088ff"
 
 footer-col: "#4d4d4d"
 footer-text-col: "#ffffff"
@@ -75,7 +75,7 @@ social-network-links:
   github: bartroels
   twitter: FomeZ
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: roelsbart
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
