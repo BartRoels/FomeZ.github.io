@@ -8,4 +8,6 @@ I am a Partner Technology Strategist, with the focus on Infrastructure at Micros
 
 I am focusing on Microsoft technologies, especially cloud solutions based on Microsoft Azure, Azure Stack, ARM, Terraform, AKS, ...
 
-I am living in Belgium togheter with my wife Katrien. I have a son Joren and I am a plus dad for Maren and Yentl.
+I live in Belgium togheter with my wife Katrien and myson Joren. I am also a plus dad for Maren and Yentl.
+
+image: /img/f.jpeg
