@@ -9,4 +9,4 @@ While on vacation I was wondering how I could easily create a website where I co
 
 Because it's also vacation I also need to unstress and game against my son on his Nintendo Switch.
 
-PS. I failed to win against a 7 year old :(
+btw I failed to win against my 7 year old boy :(
