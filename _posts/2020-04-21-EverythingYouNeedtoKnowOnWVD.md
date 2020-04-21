@@ -77,21 +77,21 @@ published: true
 
 #### Azure Academy ([Here](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ/videos?view=0&amp;sort=dd&amp;flow=grid)) (Thank You! [Dean Cefola](https://twitter.com/MSAzureAcademy))
 
-- Windows Virtual Desktop | #1 | Deployment ([Here](https://www.youtube.com/watch?v=qtx3rippZJQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=13))
-- Windows Virtual Desktop | #2 | Management ([Here](https://www.youtube.com/watch?v=1q2ecz_mYeA&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=12))
-- Windows Virtual Desktop | #3 | User Profiles ([Here](https://www.youtube.com/watch?v=_aIKvkGNOmE&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=11))
-- Windows Virtual Desktop | #4 | HA Profiles ([Here](https://www.youtube.com/watch?v=f-gBzo6Mslk&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=10))
-- Windows Virtual Desktop | #5 | User Experiences ([Here](https://www.youtube.com/watch?v=acPxLHhola0&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=9))
-- Windows Virtual Desktop | #6 | Web Management ([Here](https://www.youtube.com/watch?v=t5Vvneiy_QQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=8))
-- Windows Virtual Desktop | #7 | Scale-Out ([Here](https://www.youtube.com/watch?v=ksgBPIEgU2A&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=7))
-- Windows Virtual Desktop | #8 | WVD Azure ADDS ([Here](https://www.youtube.com/watch?v=Uayv69FZlyI&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=6))
-- Windows Virtual Desktop | #9 | WVD Diagnostics ([Here](https://www.youtube.com/watch?v=CSqY0Vtbksk&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=5))
+- Windows Virtual Desktop | #01 | Deployment ([Here](https://www.youtube.com/watch?v=qtx3rippZJQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=13))
+- Windows Virtual Desktop | #02 | Management ([Here](https://www.youtube.com/watch?v=1q2ecz_mYeA&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=12))
+- Windows Virtual Desktop | #03 | User Profiles ([Here](https://www.youtube.com/watch?v=_aIKvkGNOmE&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=11))
+- Windows Virtual Desktop | #04 | HA Profiles ([Here](https://www.youtube.com/watch?v=f-gBzo6Mslk&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=10))
+- Windows Virtual Desktop | #05 | User Experiences ([Here](https://www.youtube.com/watch?v=acPxLHhola0&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=9))
+- Windows Virtual Desktop | #06 | Web Management ([Here](https://www.youtube.com/watch?v=t5Vvneiy_QQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=8))
+- Windows Virtual Desktop | #07 | Scale-Out ([Here](https://www.youtube.com/watch?v=ksgBPIEgU2A&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=7))
+- Windows Virtual Desktop | #08 | WVD Azure ADDS ([Here](https://www.youtube.com/watch?v=Uayv69FZlyI&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=6))
+- Windows Virtual Desktop | #09 | WVD Diagnostics ([Here](https://www.youtube.com/watch?v=CSqY0Vtbksk&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=5))
 - Windows Virtual Desktop | #10 | WVD Automation ([Here](https://www.youtube.com/watch?v=shhP5zxqHR8&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=4))
 - Windows Virtual Desktop | #11 | WVD Monitoring ([Here](https://www.youtube.com/watch?v=dP3CQU2c-jE&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=3))
 - Windows Virtual Desktop | #12 | WVD Update Management ([Here](https://www.youtube.com/watch?v=ColvrOEw2Ek&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=2))
 - Windows Virtual Desktop | #13 | WVD MSIX App Attach ([Here](https://www.youtube.com/watch?v=6kkPLFgPaN8&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=1))
 - Windows Virtual Desktop | #14 | Scaling Automation ([Here](http://youtube.com/watch?v=FYDDmr9XUwo&amp;feature=youtu.be))
-- Windows Virtual Desktop | #16 | Azure Files AD Auth &amp; FSLogix ([Here](https://www.youtube.com/watch?v=9S5A1IJqfOQ))
+- Windows Virtual Desktop | #16 | Azure Files AD Auth & FSLogix ([Here](https://www.youtube.com/watch?v=9S5A1IJqfOQ))
 - Windows Virtual Desktop | #17 | Image Management ([Here](https://www.youtube.com/watch?v=PCWJEoG8X-I))
 - Windows Virtual Desktop | #18 | Ezeep for Azure ([Here](https://www.youtube.com/watch?v=Y1ac8iEc_ic))
 - Windows Virtual Desktop | #19 | Stateless VMs ([Here](https://www.youtube.com/watch?v=GyXx5Er9jYo&amp;t=2s))
@@ -116,7 +116,7 @@ published: true
 
 #### Accelerate Your Windows Virtual Desktop Deployment (Introducing WVD Spring 2020 Edition!)
 
-- Intro to Windows Virtual Desktop | What&#39;s coming with the service ([Here](https://mediastream.microsoft.com/events/2020/2003/WVDVE/player/WVDVE.html))
+- Intro to Windows Virtual Desktop | What's coming with the service ([Here](https://mediastream.microsoft.com/events/2020/2003/WVDVE/player/WVDVE.html))
 - Prepare your environment for Windows Virtual Desktop ([Here](https://medius.studios.ms/Embed/video-nc/Pieter-Wigleven))
 - Deploy Windows Virtual Desktop using the new Azure Portal experience ([Here](https://medius.studios.ms/Embed/video-nc/Pavithra-Thiruvengadam))
 - Best practices for profile management with FSLogix ([Here](https://medius.studios.ms/Embed/video-nc/Stefan-Georgiev))
@@ -128,17 +128,17 @@ published: true
 
 #### US Partner Windows Virtual Desktop Resource GitHub Repository ([Here](https://github.com/Azure/azure-ocp-samples/tree/master/Windows%20Virtual%20Desktop))
 
-#### Ciraltos - Travis Roberts - YouTube Video&#39;s
+#### Ciraltos - Travis Roberts - YouTube Video's
 
-- Automatically Start and Stop VM&#39;s in a Windows Virtual Desktop Host Pool with Azure
+- Automatically Start and Stop VM's in a Windows Virtual Desktop Host Pool with Azure
 - Automation ([Here](https://www.youtube.com/watch?v=EUpPY6ateKA))
 - Azure Windows Virtual Desktop Load Balancing ([Here](https://www.youtube.com/watch?v=dRTcLtKVWZE))
 - Azure Windows Virtual Desktop Service Principal Deployment! ([Here](https://www.youtube.com/watch?v=bqyy4kxZy7Y))
 
 #### Blog Posts
 
-- **Deploying Windows Virtual Desktop host pools with Terraform** ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploying-windows-virtual-desktop-host-pools-with-terraform/ba-p/1225555))
-- **Windows Virtual Desktop related Blogs from Robin Hobo (MVP)** ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/))
+- Deploying Windows Virtual Desktop host pools with Terraform ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploying-windows-virtual-desktop-host-pools-with-terraform/ba-p/1225555))
+- Windows Virtual Desktop related Blogs from **Robin Hobo (MVP)** ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/))
   - How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure
   - ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop
   - hostpool ([Here](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/))
@@ -159,6 +159,6 @@ published: true
   - in to the Windows Virtual Desktop (WVD) Management Tool ([Here](https://www.robinhobo.com/how-to-fix-server-app-is-not-consented-so-please-consent-server-app-error-when-logging-in-to-the-windows-virtual-desktop-wvd-management-tool/))
   - How to deploy Windows Virtual Desktop (Preview) and publish a Full Desktop and the
   - Microsoft Office 365 ProPlus applications ([Here](https://www.robinhobo.com/how-to-deploy-windows-virtual-desktop-preview-and-publish-a-full-desktop-and-the-microsoft-office-365-proplus-applications/))
-- **Windows Virtual Desktop related Blogs from Micha Wets (MVP)** (Here)
+- Windows Virtual Desktop related Blogs from **Micha Wets (MVP)**
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/))
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/))
