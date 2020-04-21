@@ -111,8 +111,7 @@ published: true
   - Windows Virtual Desktop - How-to - Step 2: Deploy ([Here](https://www.youtube.com/watch?v=Xhu7CltjS8w&amp;t=2s))
   - Windows Virtual Desktop - How-to - Step 3: Optimize ([Here](https://www.youtube.com/watch?v=I8gcl8Zvcps))
 - Windows Virtual Desktop on Azure - (GA) Released ([Here](https://www.youtube.com/watch?v=QLDu6QVohEI&amp;list=PLXtHYVsvn_b8KAKw44YUpghpD6lg-EHev&amp;index=5))
-- Windows Virtual Desktop - upcoming admin experience + recent updates (Microsoft Ignite)
-- ([Here](https://www.youtube.com/watch?v=dCR9U7bODm0&amp;list=PLXtHYVsvn_b8KAKw44YUpghpD6lg-EHev&amp;index=6))
+- Windows Virtual Desktop - upcoming admin experience + recent updates (Microsoft Ignite) ([Here](https://www.youtube.com/watch?v=dCR9U7bODm0&amp;list=PLXtHYVsvn_b8KAKw44YUpghpD6lg-EHev&amp;index=6))
 
 #### Accelerate Your Windows Virtual Desktop Deployment (Introducing WVD Spring 2020 Edition!)
 
@@ -138,7 +137,7 @@ published: true
 #### Blog Posts
 
 - Deploying Windows Virtual Desktop host pools with Terraform ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploying-windows-virtual-desktop-host-pools-with-terraform/ba-p/1225555))
-- Windows Virtual Desktop related Blogs from **Robin Hobo (MVP)** ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/))
+- **Windows Virtual Desktop related Blogs from Robin Hobo (MVP)** ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/))
   - How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure
   - ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop
   - hostpool ([Here](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/))
@@ -159,6 +158,6 @@ published: true
   - in to the Windows Virtual Desktop (WVD) Management Tool ([Here](https://www.robinhobo.com/how-to-fix-server-app-is-not-consented-so-please-consent-server-app-error-when-logging-in-to-the-windows-virtual-desktop-wvd-management-tool/))
   - How to deploy Windows Virtual Desktop (Preview) and publish a Full Desktop and the
   - Microsoft Office 365 ProPlus applications ([Here](https://www.robinhobo.com/how-to-deploy-windows-virtual-desktop-preview-and-publish-a-full-desktop-and-the-microsoft-office-365-proplus-applications/))
-- Windows Virtual Desktop related Blogs from **Micha Wets (MVP)**
+- **Windows Virtual Desktop related Blogs from Micha Wets (MVP)**
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/))
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/))
