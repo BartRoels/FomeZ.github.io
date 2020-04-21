@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-image: /img/gaming.png
+image: /img/WVD-Logo.jpg
 ---
 
 WVD
