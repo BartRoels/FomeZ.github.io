@@ -21,8 +21,8 @@ description: Bart Roels
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Club Brugge: "https://clubbrugge.be/"
+#  Resources:
+#    - Club Brugge: "https://clubbrugge.be/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
  
 
