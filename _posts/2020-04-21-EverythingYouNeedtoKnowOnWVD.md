@@ -57,7 +57,7 @@ published: true
 - Windows Virtual Desktop slide deck ([Here](https://azurepartnerportal.blob.core.windows.net/media/Resources/Windows%20Virtual%20Desktop%20L100%20Overview%20Presentation%20v2.pptx))
 - Other useful Microsoft Partner Resources ([Here](https://www.microsoft.com/azure/partners/windows-virtual-desktop))
 
-**Microsoft Docs (**[**Here**](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)**)**
+#### Microsoft Docs [Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
 
 - **What is Windows Virtual Desktop?** ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
   - Create a tenant in Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/tenant-setup-azure-active-directory))
@@ -76,7 +76,7 @@ published: true
 
 - Desktop virtualization using Windows Virtual Desktop-service architecture ([Here](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png))
 
-**Azure Academy (**[**Here**](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ/videos?view=0&amp;sort=dd&amp;flow=grid)**) (Thank You!** [**Dean Cefola**](https://twitter.com/MSAzureAcademy)**)**
+#### Azure Academy ([Here](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ/videos?view=0&amp;sort=dd&amp;flow=grid)) (Thank You! [Dean Cefola](https://twitter.com/MSAzureAcademy))
 
 - Windows Virtual Desktop | #1 | Deployment ([Here](https://www.youtube.com/watch?v=qtx3rippZJQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=13))
 - Windows Virtual Desktop | #2 | Management ([Here](https://www.youtube.com/watch?v=1q2ecz_mYeA&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=12))
