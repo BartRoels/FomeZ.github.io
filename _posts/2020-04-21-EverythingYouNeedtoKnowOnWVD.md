@@ -4,7 +4,7 @@ title: All You Need To Know on Windows Virtual Desktop
 image: /img/WVD-Logo.jpg
 published: true
 ---
-## **Windows Virtual Desktop**
+## Windows Virtual Desktop
 
 ###  Relevant exams
 
