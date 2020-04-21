@@ -4,7 +4,7 @@ title: All You Need To Know on Windows Virtual Desktop
 image: /img/WVD-Logo.jpg
 published: true
 ---
-## Windows Virtual Desktop
+I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop. I try to update the list from time to time.
 
 ###  Relevant exams
 
@@ -100,8 +100,7 @@ published: true
 
 - Accelerate your RDS and VDI migration to Windows Virtual Desktop ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Accelerate-your-RDS-and-VDI-migration-to-Windows-Virtual-Desktop/ba-p/1079005))
 - A guide to Windows Virtual Desktop at Microsoft Ignite 2019 ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/A-guide-to-Windows-Virtual-Desktop-at-Microsoft-Ignite-2019/ba-p/976831))
-- Getting started with FSLogix profile containers on Azure Files in Windows Virtual Desktop
-- ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Getting-started-with-FSLogix-profile-containers-on-Azure-Files/ba-p/746477))
+- Getting started with FSLogix profile containers on Azure Files in Windows Virtual Desktop ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Getting-started-with-FSLogix-profile-containers-on-Azure-Files/ba-p/746477))
 - Getting started with Windows Virtual Desktop ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Getting-started-with-Windows-Virtual-Desktop/ba-p/391054))
 
 #### Microsoft Mechanics
@@ -129,8 +128,7 @@ published: true
 
 #### Ciraltos - Travis Roberts - YouTube Video's
 
-- Automatically Start and Stop VM's in a Windows Virtual Desktop Host Pool with Azure
-- Automation ([Here](https://www.youtube.com/watch?v=EUpPY6ateKA))
+- Automatically Start and Stop VM's in a Windows Virtual Desktop Host Pool with Azure Automation ([Here](https://www.youtube.com/watch?v=EUpPY6ateKA))
 - Azure Windows Virtual Desktop Load Balancing ([Here](https://www.youtube.com/watch?v=dRTcLtKVWZE))
 - Azure Windows Virtual Desktop Service Principal Deployment! ([Here](https://www.youtube.com/watch?v=bqyy4kxZy7Y))
 
@@ -138,26 +136,16 @@ published: true
 
 - Deploying Windows Virtual Desktop host pools with Terraform ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploying-windows-virtual-desktop-host-pools-with-terraform/ba-p/1225555))
 - **Windows Virtual Desktop related Blogs from Robin Hobo (MVP)** ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/))
-  - How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure
-  - ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop
-  - hostpool ([Here](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/))
-  - How to start OneDrive (and automatically sign-in) when using a RemoteApp in Windows
-  - Virtual Desktop ([Here](https://www.robinhobo.com/how-to-start-onedrive-and-automatically-sign-in-when-using-a-remoteapp-in-windows-virtual-desktop-wvd/))
-  - Windows Virtual Desktop (WVD) Host Pool deployment error – Subscription is not registered
-  - ([Here](https://www.robinhobo.com/windows-virtual-desktop-wvd-host-pool-deployment-error-subscription-is-not-registered/))
-  - How to configure Conditional Access with Session Management for Windows Virtual Desktop
-  - ([Here](https://www.robinhobo.com/how-to-configure-conditional-access-with-session-management-for-windows-virtual-desktop-wvd/))
+  - How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop hostpool ([Here](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/))
+  - How to start OneDrive (and automatically sign-in) when using a RemoteApp in Windows Virtual Desktop ([Here](https://www.robinhobo.com/how-to-start-onedrive-and-automatically-sign-in-when-using-a-remoteapp-in-windows-virtual-desktop-wvd/))
+  - Windows Virtual Desktop (WVD) Host Pool deployment error – Subscription is not registered ([Here](https://www.robinhobo.com/windows-virtual-desktop-wvd-host-pool-deployment-error-subscription-is-not-registered/))
+  - How to configure Conditional Access with Session Management for Windows Virtual Desktop ([Here](https://www.robinhobo.com/how-to-configure-conditional-access-with-session-management-for-windows-virtual-desktop-wvd/))
   - How to provision a Windows Virtual Desktop Host Pool with Service Principal ([Here](https://www.robinhobo.com/how-to-provision-a-windows-virtual-desktop-wvd-host-pool-with-service-principal/))
-  - How to implement and manage Azure AD Domain Services (Azure AD DS) for a fast Windows
-  - Virtual Desktop PoC deployment ([Here](https://www.robinhobo.com/how-to-implement-and-manage-azure-ad-domain-services-azure-ad-ds-for-a-fast-windows-virtual-desktop-wvd-poc-deployment/))
-  - How to update a custom Windows 10 multi-user image with LOB applications for Windows
-  - Virtual Desktop Preview ([Here](https://www.robinhobo.com/how-to-update-a-custom-windows-10-multi-user-image-with-lob-applications-for-windows-virtual-desktop-wvd-preview/))
-  - How to create a custom Windows 10 multi-user image with LOB applications for Windows
-  - Virtual Desktop Preview Hostpool deployments ([Here](https://www.robinhobo.com/how-to-create-a-custom-windows-10-multi-user-image-with-lob-applications-for-windows-virtual-desktop-preview-wvd-hostpool-deployments/))
-  - How to fix &quot;Server App&quot; is not consented, so please consent Server App.&quot; error when logging
-  - in to the Windows Virtual Desktop (WVD) Management Tool ([Here](https://www.robinhobo.com/how-to-fix-server-app-is-not-consented-so-please-consent-server-app-error-when-logging-in-to-the-windows-virtual-desktop-wvd-management-tool/))
-  - How to deploy Windows Virtual Desktop (Preview) and publish a Full Desktop and the
-  - Microsoft Office 365 ProPlus applications ([Here](https://www.robinhobo.com/how-to-deploy-windows-virtual-desktop-preview-and-publish-a-full-desktop-and-the-microsoft-office-365-proplus-applications/))
+  - How to implement and manage Azure AD Domain Services (Azure AD DS) for a fast Windows Virtual Desktop PoC deployment ([Here](https://www.robinhobo.com/how-to-implement-and-manage-azure-ad-domain-services-azure-ad-ds-for-a-fast-windows-virtual-desktop-wvd-poc-deployment/))
+  - How to update a custom Windows 10 multi-user image with LOB applications for Windows Virtual Desktop Preview ([Here](https://www.robinhobo.com/how-to-update-a-custom-windows-10-multi-user-image-with-lob-applications-for-windows-virtual-desktop-wvd-preview/))
+  - How to create a custom Windows 10 multi-user image with LOB applications for Windows Virtual Desktop Preview Hostpool deployments ([Here](https://www.robinhobo.com/how-to-create-a-custom-windows-10-multi-user-image-with-lob-applications-for-windows-virtual-desktop-preview-wvd-hostpool-deployments/))
+  - How to fix &quot;Server App&quot; is not consented, so please consent Server App.&quot; error when logging in to the Windows Virtual Desktop (WVD) Management Tool ([Here](https://www.robinhobo.com/how-to-fix-server-app-is-not-consented-so-please-consent-server-app-error-when-logging-in-to-the-windows-virtual-desktop-wvd-management-tool/))
+  - How to deploy Windows Virtual Desktop (Preview) and publish a Full Desktop and the Microsoft Office 365 ProPlus applications ([Here](https://www.robinhobo.com/how-to-deploy-windows-virtual-desktop-preview-and-publish-a-full-desktop-and-the-microsoft-office-365-proplus-applications/))
 - **Windows Virtual Desktop related Blogs from Micha Wets (MVP)**
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/))
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/))
