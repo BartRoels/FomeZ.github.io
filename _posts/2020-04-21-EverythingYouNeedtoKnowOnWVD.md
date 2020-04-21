@@ -21,30 +21,30 @@ published: true
 ### Selected Learning Activities
 #### Microsoft Learn
 
-- **Deliver remote desktops and apps from Azure with Windows Virtual Desktop** ([Here](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/))
-  - **Introduction to Windows Virtual Desktop in Microsoft Azure** ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/introduction))
+- Deliver remote desktops and apps from Azure with Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/))
+  - Introduction to Windows Virtual Desktop in Microsoft Azure ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/introduction))
     - Understand the Windows Virtual Desktop configuration workflow
-  - **Prepare for Windows Virtual Desktop in Microsoft Azure** ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/))
+  - Prepare for Windows Virtual Desktop in Microsoft Azure ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/))
     - Prepare your environment for Windows Virtual Desktop
     - Provision an Azure tenant and set up Azure Active Directory
     - Integrate Azure AD with Active Directory Domain Services
     - Provision the required administrator roles in Azure AD
     - Set up the Windows Virtual Desktop tenant
-  - **Provision an Azure tenant and set up Azure Active Directory** ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/wvd-provision-azure))
+  - Provision an Azure tenant and set up Azure Active Directory ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/wvd-provision-azure))
     - Integrate Azure AD with Active Directory Domain Services
     - Provision the required administrator roles in Azure AD
     - Set up the Windows Virtual Desktop tenant
-  - **Deploy Windows Virtual Desktop in Microsoft Azure** ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/))
+  - Deploy Windows Virtual Desktop in Microsoft Azure ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/))
     - Review how to deploy Windows Virtual Desktop
     - Provision a Windows Virtual Desktop host pool
     - Configure apps and desktops for users
-  - **Review how to deploy Windows Virtual Desktop** ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/introduction))
+  - Review how to deploy Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/introduction))
     - Provision a Windows Virtual Desktop host pool
     - Configure apps and desktops for users
 
 #### Microsoft Partner Network
 
-- **Windows Virtual Desktop Sales and Business Value Fundamentals** ([Here](https://partner.microsoft.com/en-us/asset/collection/windows-virtual-desktop-sales-and-business-value-fundamentals#/))
+- Windows Virtual Desktop Sales and Business Value Fundamentals ([Here](https://partner.microsoft.com/en-us/asset/collection/windows-virtual-desktop-sales-and-business-value-fundamentals#/))
   - Introduction and WVD overview keynote ([Here](https://partner.microsoft.com/en-us/training/assets/detail/introduction-and-wvd-overview-keynote-mp4))
   - WVD primary sales motions ([Here](https://partner.microsoft.com/en-us/training/assets/detail/wvd-primary-sales-motions-mp4))
   - WVD architecture and capabilities ([Here](https://partner.microsoft.com/en-us/training/assets/detail/wvd-architecture-and-capabilities-mp4))
@@ -57,13 +57,13 @@ published: true
 - Windows Virtual Desktop slide deck ([Here](https://azurepartnerportal.blob.core.windows.net/media/Resources/Windows%20Virtual%20Desktop%20L100%20Overview%20Presentation%20v2.pptx))
 - Other useful Microsoft Partner Resources ([Here](https://www.microsoft.com/azure/partners/windows-virtual-desktop))
 
-#### Microsoft Docs [Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
-- **What is Windows Virtual Desktop?** ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
+#### Microsoft Docs ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
+- What is Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
   - Create a tenant in Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/tenant-setup-azure-active-directory))
   - Create a host pool with Azure Marketplace ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-azure-marketplace))
   - Manage app groups for Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/manage-app-groups))
   - Create service principals and role assignments with PowerShell ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-service-principal-role-powershell))
-- **Storage options for FSLogix profile containers in Windows Virtual Desktop** ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile))
+- Storage options for FSLogix profile containers in Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile))
   - Create an FSLogix profile container for a host pool using Azure NetApp Files ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-fslogix-profile-container))
 - Set up MSIX app attach ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/app-attach))
 - Windows Virtual Desktop partner integrations ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/partners))
