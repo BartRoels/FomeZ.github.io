@@ -58,7 +58,6 @@ published: true
 - Other useful Microsoft Partner Resources ([Here](https://www.microsoft.com/azure/partners/windows-virtual-desktop))
 
 #### Microsoft Docs [Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
-
 - **What is Windows Virtual Desktop?** ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
   - Create a tenant in Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/tenant-setup-azure-active-directory))
   - Create a host pool with Azure Marketplace ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-azure-marketplace))
