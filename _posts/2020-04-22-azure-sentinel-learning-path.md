@@ -10,8 +10,6 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 <a name="TopOfPage"></a>
 
-
-
 ## Table of contents
 
 [Beginner (BDM, presales roles)](#Beginner)
@@ -62,7 +60,7 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 ## Beginner (BDM, presales roles) 
 
-### The Basics [TOP](#TopOfPage)
+### The Basics
 
 - (The real beginning!) [Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/){:target="_blank"}
 - [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview){:target="_blank"} - Introduction [Video 1](https://www.youtube.com/watch?v=dRpOR2GpL1s){:target="_blank"}, [Video 2](https://www.youtube.com/watch?v=XXZp6LQZSJU){:target="_blank"}
@@ -71,7 +69,9 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 - [Connect data sources](https://docs.microsoft.com/en-us/azure/sentinel/connect-data-sources){:target="_blank"}
 - Improve security with Azure Sentinel, [a cloud-native SIEM and SOAR solution](https://www.youtube.com/watch?v=oiWInLYvnUk){:target="_blank"}
 
-### Module 1: Technical overview (Level 200) [TOP](#TopOfPage)
+[BackToTop](#TopOfPage)
+
+### Module 1: Technical overview (Level 200)
 
 If you want to get an initial overview of Azure Sentinel's technical capabilities
 
@@ -84,6 +84,8 @@ You can read more about the features described in the Webinar here:
 
 - [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229){:target="_blank"}
 
+[BackToTop](#TopOfPage)
+
 ### Module 2: Azure Sentinel role (Level 200)
 
 What is the typical use case for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/AzureSentinelBlog/243/1/L400-P2%20Use%20cases.pdf){:target="_blank"}
@@ -94,6 +96,8 @@ What is the typical use case for Azure Sentinel? What are customers finding in i
 - [Azure Sentinel](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/) and [Log Analytics](https://azure.microsoft.com/en-us/pricing/details/monitor/){:target="_blank"} pricing pages
 
 --------------------- <a name="Advanced"></a>
+
+[BackToTop](#TopOfPage)
 
 ## Advanced (Security Analyst) <a name="Advanced"></a>
 
@@ -109,6 +113,8 @@ If you want to get an initial overview of Azure Sentinel's technical capabilitie
 You can read more about the features described in the Webinar here:
 
 - [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229){:target="_blank"}
+
+[BackToTop](#TopOfPage)
 
 ### Module 3: Cloud architecture and multi-workspace/tenant support
 
@@ -126,12 +132,16 @@ An Azure Sentinel instance is called a workspace. Multiple workspaces are often 
 - Use[ resource RBAC](https://techcommunity.microsoft.com/t5/azure-sentinel/controlling-access-to-azure-sentinel-data-resource-rbac/ba-p/1301463){:target="_blank"} to enable multiple teams to use a single workspace
 - [Use Azure Lighthouse to extend multi-workspace capabilities across tenants.](https://techcommunity.microsoft.com/t5/azure-sentinel/using-azure-lighthouse-and-azure-sentinel-to-monitor-across/ba-p/1043899){:target="_blank"}
 
+[BackToTop](#TopOfPage)
+
 ### Module 12: Handling incidents
 
 After building your SOC, you need to start using it. Watch the day in a SOC analyst life to learn how to use Azure Sentinel in the SOC:
 
 - Webinar: [Video](https://youtu.be/HloK6Ay4h1M){:target="_blank"}
 - Webinar: [Presentation](https://1drv.ms/b/s%21AnEPjr8tHcNmghALzkfTkg-dTmfH){:target="_blank"}
+
+[BackToTop](#TopOfPage)
 
 ### Module 13: Hunting
 
@@ -150,6 +160,8 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 - [What am I looking at? - Using Notebooks to gain situational awareness](https://techcommunity.microsoft.com/t5/azure-sentinel/what-am-i-looking-at-using-notebooks-to-gain-situational/ba-p/891818){:target="_blank"}
 - [Explorer Notebook Series: The Linux Host Explorer](https://techcommunity.microsoft.com/t5/azure-sentinel/explorer-notebook-series-the-linux-host-explorer/ba-p/1138273){:target="_blank"}
 - [Using Threat Intelligence in your Jupyter Notebooks](https://techcommunity.microsoft.com/t5/azure-sentinel/using-threat-intelligence-in-your-jupyter-notebooks/ba-p/860239){:target="_blank"}
+
+[BackToTop](#TopOfPage)
 
 --------------------- <a name="Expert"></a>
 
@@ -168,6 +180,8 @@ You can read more about the features described in the Webinar here:
 
 - [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229){:target="_blank"}
 
+[BackToTop](#TopOfPage)
+
 ### Module 3: Cloud architecture and multi-workspace/tenant support
 
 An Azure Sentinel instance is called a workspace. Multiple workspaces are often necessary and can act together as a single Azure Sentinel system. The first half of the Webinar above discusses Azure Sentinel's workspace architecture.
@@ -184,6 +198,8 @@ An Azure Sentinel instance is called a workspace. Multiple workspaces are often 
 - Use[ resource RBAC](https://techcommunity.microsoft.com/t5/azure-sentinel/controlling-access-to-azure-sentinel-data-resource-rbac/ba-p/1301463){:target="_blank"} to enable multiple teams to use a single workspace
 - [Use Azure Lighthouse to extend multi-workspace capabilities across tenants.](https://techcommunity.microsoft.com/t5/azure-sentinel/using-azure-lighthouse-and-azure-sentinel-to-monitor-across/ba-p/1043899){:target="_blank"}
 
+[BackToTop](#TopOfPage)
+
 ### Module 7: KQL
 
 Most Azure Sentinel capabilities use [KQL](https://docs.microsoft.com/en-us/azure/kusto/query/){:target="_blank"} or Kusto Query Language. When you search in your logs, write rules, creating hunting queries or create workbooks, you use KQL.
@@ -194,6 +210,8 @@ The KQL Webinar is planned for June 2nd. Meanwhile, to learn KQL, use these reso
 - [KQL Cheat Sheet](https://www.mbsecure.nl/blog/2019/12/kql-cheat-sheet){:target="_blank"}
 
 In addition to KQL, to applying it to Azure Sentinel requires understanding the [table schemas used by Azure Sentinel](https://github.com/Azure/Azure-Sentinel/wiki/DataSource-Schema-Reference){:target="_blank"}
+
+[BackToTop](#TopOfPage)
 
 ### Module 8: Write rules  
 
@@ -209,6 +227,8 @@ In addition to KQL, to applying it to Azure Sentinel requires understanding the 
 
 Writing rules also requires understanding the [table schemas used by Azure Sentinel](https://github.com/Azure/Azure-Sentinel/wiki/DataSource-Schema-Reference){:target="_blank"}
 
+[BackToTop](#TopOfPage)
+
 ### Module 9: Creating playbooks
 
 Start with the [presentation](https://techcommunity.microsoft.com/t5/forums/editpage/board-id/AzureSentinelBlog/message-id/243/is-draft/true?attachment-id=21925){:target="_blank"}
@@ -218,6 +238,8 @@ Start with the [presentation](https://techcommunity.microsoft.com/t5/forums/edit
 - Read about [Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview){:target="_blank"}, which is the core technology driving Azure Sentinel playbooks.
 - [The Azure Sentinel Logic App connector](https://docs.microsoft.com/en-us/connectors/azuresentinel/){:target="_blank"} is link between Logic Apps and Azure Sentinel
 
+[BackToTop](#TopOfPage)
+
 ### Module 10: Developing workbooks
 
 As we work to develop training materials for workbooks, start with the [workbooks documentation](https://docs.microsoft.com/en-us/azure/azure-monitor/app/usage-workbooks){:target="_blank"}
@@ -225,6 +247,8 @@ As we work to develop training materials for workbooks, start with the [workbook
 You might also want to refer to these workbook examples:
 
 - [How to use Azure Monitor Workbooks to map Sentinel data](https://techcommunity.microsoft.com/t5/azure-sentinel/how-to-use-azure-monitor-workbooks-to-map-sentinel-data/ba-p/971818){:target="_blank"}
+
+[BackToTop](#TopOfPage)
 
 ### Module 13: Hunting
 
@@ -244,6 +268,8 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 - [Explorer Notebook Series: The Linux Host Explorer](https://techcommunity.microsoft.com/t5/azure-sentinel/explorer-notebook-series-the-linux-host-explorer/ba-p/1138273){:target="_blank"}
 - [Using Threat Intelligence in your Jupyter Notebooks](https://techcommunity.microsoft.com/t5/azure-sentinel/using-threat-intelligence-in-your-jupyter-notebooks/ba-p/860239){:target="_blank"}
 
+[BackToTop](#TopOfPage)
+
 --------------------- <a name="AdvancedTopics"></a>
 ## Advanced Topics
 
@@ -252,10 +278,14 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 - Webinar: [Video](https://youtu.be/Cu4dc88GH1k){:target="_blank"}
 - Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjRd01jxCSmbydt0){:target="_blank"}
 - Blog post: [Extending Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/extending-azure-sentinel-apis-integration-and-management/ba-p/1116885){:target="_blank"}: APIs, Integration and management automation
+
+[BackToTop](#TopOfPage)
  
 ### Module 15: Roadmap
  
 Since roadmap information is provided under NDA, please reach out to your Microsoft account team to discuss an Azure Sentinel roadmap presentation. 
+
+[BackToTop](#TopOfPage)
 
 ### Module 16: Where do I go from here?
  
@@ -265,8 +295,12 @@ Since roadmap information is provided under NDA, please reach out to your Micros
 - Contribute or enhance rules, queries, workbooks, connectors and more to the community on the [Azure Sentinel GitHub](https://github.com/Azure/Azure-Sentinel/wiki){:target="_blank"}
 - As a last resort, send an e-mail to [AzureSentinel@microsoft.com](AzureSentinel@microsoft.com){:target="_blank"}
 
+[BackToTop](#TopOfPage)
+
 ### Extra Resources
 
 - Learn Azure Sentinel ([eBook/Print](https://www.packtpub.com/eu/security/learn-azure-sentinel){:target="_blank"})
 - Implementing and Administering Azure Sentinel ([Lynda.com](https://www.lynda.com/Azure-tutorials/Implementing-Administering-Azure-Sentinel/2813287-2.html){:target="_blank"})
 - Step-by-Step Guide to Deploy Azure Sentinel ([Blog](https://www.infusedinnovations.com/blog/intelligent-cloud/step-by-step-guide-to-deploy-azure-sentinel){:target="_blank"})
+
+[BackToTop](#TopOfPage)
