@@ -12,6 +12,8 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 [Beginner (BDM, presales roles)](#Beginner)
 
+- The Basics
+
 - Module 1: Technical overview
 
 - Module 2: Azure Sentinel role
@@ -45,6 +47,13 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 --------------------- <a name="Beginner"></a>
 
 ## Beginner (BDM, presales roles) 
+
+### The Basics
+
+- (The real beginning!) [Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/){:target="_blank"}
+- [Global prerequisites](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard#global-prerequisites){:target="_blank"} + [create a Log Analytics workspace](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-quick-create-workspace){:target="_blank"}
+- [Enable Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard#enable-azure-sentinel-){:target="_blank"}
+- [Connect data sources](https://docs.microsoft.com/en-us/azure/sentinel/connect-data-sources){:target="_blank"}
 
 ### Module 1: Technical overview (Level 200)
 
