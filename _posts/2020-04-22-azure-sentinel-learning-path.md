@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Azure Sentinel Learning Path
+title: 'Azure Sentinel Learning paths for Beginners, Advanced and Experts'
 image: /img/WVD-Logo.jpg
 published: true
 ---
 
-# Azure Sentinel learning paths
-
-# Table of contents
+## Table of contents
 
 [Beginner (BDM, presales roles)](#Beginner)
 
