@@ -59,10 +59,11 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 ### The Basics
 
 - (The real beginning!) [Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/){:target="_blank"}
-- [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview){:target="_blank"} - Introduction [Video](https://www.youtube.com/watch?v=dRpOR2GpL1s){:target="_blank"}
+- [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview){:target="_blank"} - Introduction [Video 1](https://www.youtube.com/watch?v=dRpOR2GpL1s){:target="_blank"}, [Video 2](https://www.youtube.com/watch?v=XXZp6LQZSJU){:target="_blank"}
 - [Global prerequisites](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard#global-prerequisites){:target="_blank"} + [create a Log Analytics workspace](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-quick-create-workspace){:target="_blank"}
 - [Enable Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard#enable-azure-sentinel-){:target="_blank"}
 - [Connect data sources](https://docs.microsoft.com/en-us/azure/sentinel/connect-data-sources){:target="_blank"}
+- Improve security with Azure Sentinel, [a cloud-native SIEM and SOAR solution](https://www.youtube.com/watch?v=oiWInLYvnUk){:target="_blank"}
 
 ### Module 1: Technical overview (Level 200)
 
@@ -257,3 +258,11 @@ Since roadmap information is provided under NDA, please reach out to your Micros
 - Submit feature requests using [User voice](https://feedback.azure.com/forums/920458-azure-sentinel){:target="_blank"}
 - Contribute or enhance rules, queries, workbooks, connectors and more to the community on the [Azure Sentinel GitHub](https://github.com/Azure/Azure-Sentinel/wiki){:target="_blank"}
 - As a last resort, send an e-mail to [AzureSentinel@microsoft.com](AzureSentinel@microsoft.com){:target="_blank"}
+
+### Extra Content
+
+- Learn Azure Sentinel ([eBook/Print](https://www.packtpub.com/eu/security/learn-azure-sentinel){:target="_blank"})
+- Implementing and Administering Azure Sentinel ([Lynda.com](https://www.lynda.com/Azure-tutorials/Implementing-Administering-Azure-Sentinel/2813287-2.html){:target="_blank"})
+- Step-by-Step Guide to Deploy Azure Sentinel ([Blog](https://www.infusedinnovations.com/blog/intelligent-cloud/step-by-step-guide-to-deploy-azure-sentinel){:target="_blank"})
+-
+
