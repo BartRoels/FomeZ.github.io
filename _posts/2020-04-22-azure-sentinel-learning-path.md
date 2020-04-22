@@ -16,43 +16,43 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 - The Basics
 
-- Module 1: Technical overview
+- Technical overview
 
-- Module 2: Azure Sentinel role
+- Azure Sentinel role
 
 [Advanced (Security Analyst)](#Advanced)
 
-- Module 1: Technical overview
+- Technical overview
 
-- Module 3: Cloud architecture and multi-workspace/tenant support
+- Cloud architecture and multi-workspace/tenant support
 
-- Module 12: Handling incidents
+- Handling incidents
 
-- Module 13: Hunting
+- Hunting
 
 [Expert (SOC engineer)](#Expert)
 
-- Module 1: Technical overview
+- Technical overview
 
-- Module 3: Cloud architecture and multi-workspace/tenant support
+- Cloud architecture and multi-workspace/tenant support
 
-- Module 7: KQL
+- KQL
 
-- Module 8: Write rules
+- Write rules
 
-- Module 9: Creating playbooks
+- Creating playbooks
 
-- Module 10: Developing workbooks
+- Developing workbooks
 
-- Module 13: Hunting
+- Hunting
 
 [Advanced Topics](#AdvancedTopics)
 
-- Module 14: Automating and integrating 
+- Automating and integrating 
 
-- Module 15: Roadmap - since it requires an NDA, contact your Microsoft contact for details.
+- Roadmap - since it requires an NDA, contact your Microsoft contact for details.
 
-- Module 16: Where to go next?
+- Where to go next?
 
 - Extra Resources
 
@@ -71,7 +71,7 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 [BackToTop](#TopOfPage)
 
-### Module 1: Technical overview (Level 200)
+### Technical overview (Level 200)
 
 If you want to get an initial overview of Azure Sentinel's technical capabilities
 
@@ -86,7 +86,7 @@ You can read more about the features described in the Webinar here:
 
 [BackToTop](#TopOfPage)
 
-### Module 2: Azure Sentinel role (Level 200)
+### Azure Sentinel role (Level 200)
 
 What is the typical use case for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/AzureSentinelBlog/243/1/L400-P2%20Use%20cases.pdf){:target="_blank"}
 
@@ -101,7 +101,7 @@ What is the typical use case for Azure Sentinel? What are customers finding in i
 
 ## Advanced (Security Analyst) <a name="Advanced"></a>
 
-### Module 1: Technical overview (Level 200)
+### Technical overview (Level 200)
 
 If you want to get an initial overview of Azure Sentinel's technical capabilities
 
@@ -116,14 +116,14 @@ You can read more about the features described in the Webinar here:
 
 [BackToTop](#TopOfPage)
 
-### Module 3: Cloud architecture and multi-workspace/tenant support
+### Cloud architecture and multi-workspace/tenant support
 
 An Azure Sentinel instance is called a workspace. Multiple workspaces are often necessary and can act together as a single Azure Sentinel system. The first half of the Webinar above discusses Azure Sentinel's workspace architecture.
 
 
-- Webinar: [Video](https://youtu.be/_mm3GNwPBHU){:target="_blank"} (includes Module 4)
-- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjuszn8-jty5Gbx7){:target="_blank"} (includes Module 4)
-- You may also want to register for the MSSP and distributed organization webinar on April 20th [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNlI1UjZJTzlCM0Q2M1dNMk1NQjJSTFM4OC4u){:target="_blank"} (includes Module 4)
+- Webinar: [Video](https://youtu.be/_mm3GNwPBHU){:target="_blank"}
+- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjuszn8-jty5Gbx7){:target="_blank"}
+- You may also want to register for the MSSP and distributed organization webinar on April 20th [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNlI1UjZJTzlCM0Q2M1dNMk1NQjJSTFM4OC4u){:target="_blank"} 
 
 **Learn more**
 
@@ -134,7 +134,7 @@ An Azure Sentinel instance is called a workspace. Multiple workspaces are often 
 
 [BackToTop](#TopOfPage)
 
-### Module 12: Handling incidents
+### Handling incidents
 
 After building your SOC, you need to start using it. Watch the day in a SOC analyst life to learn how to use Azure Sentinel in the SOC:
 
@@ -143,7 +143,7 @@ After building your SOC, you need to start using it. Watch the day in a SOC anal
 
 [BackToTop](#TopOfPage)
 
-### Module 13: Hunting
+### Hunting
 
 Whatever is your methodology and use case for hunting, Azure Sentinel is a great hunting platform.
 
@@ -167,7 +167,7 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 
 ## Expert (SOC engineer)
 
-### Module 1: Technical overview (Level 200)
+### Technical overview (Level 200)
 
 If you want to get an initial overview of Azure Sentinel's technical capabilities
 
@@ -182,14 +182,14 @@ You can read more about the features described in the Webinar here:
 
 [BackToTop](#TopOfPage)
 
-### Module 3: Cloud architecture and multi-workspace/tenant support
+### Cloud architecture and multi-workspace/tenant support
 
 An Azure Sentinel instance is called a workspace. Multiple workspaces are often necessary and can act together as a single Azure Sentinel system. The first half of the Webinar above discusses Azure Sentinel's workspace architecture.
 
 
-- Webinar: [Video](https://youtu.be/_mm3GNwPBHU){:target="_blank"} (includes Module 4)
-- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjuszn8-jty5Gbx7){:target="_blank"} (includes Module 4)
-- You may also want to register for the MSSP and distributed organization webinar on April 20th [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNlI1UjZJTzlCM0Q2M1dNMk1NQjJSTFM4OC4u){:target="_blank"} (includes Module 4)
+- Webinar: [Video](https://youtu.be/_mm3GNwPBHU){:target="_blank"}
+- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjuszn8-jty5Gbx7){:target="_blank"} 
+- You may also want to register for the MSSP and distributed organization webinar on April 20th [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNlI1UjZJTzlCM0Q2M1dNMk1NQjJSTFM4OC4u){:target="_blank"} 
 
 **Learn more**
 
@@ -200,7 +200,7 @@ An Azure Sentinel instance is called a workspace. Multiple workspaces are often 
 
 [BackToTop](#TopOfPage)
 
-### Module 7: KQL
+### KQL
 
 Most Azure Sentinel capabilities use [KQL](https://docs.microsoft.com/en-us/azure/kusto/query/){:target="_blank"} or Kusto Query Language. When you search in your logs, write rules, creating hunting queries or create workbooks, you use KQL.
 
@@ -213,7 +213,7 @@ In addition to KQL, to applying it to Azure Sentinel requires understanding the 
 
 [BackToTop](#TopOfPage)
 
-### Module 8: Write rules  
+### Write rules  
 
 - Webinar: [Video](https://youtu.be/pJjljBT4ipQ){:target="_blank"}
 - Webinar: [Presentation](https://1drv.ms/b/s%21AnEPjr8tHcNmghhrDiXV1NeTZCZI){:target="_blank"}
@@ -229,7 +229,7 @@ Writing rules also requires understanding the [table schemas used by Azure Senti
 
 [BackToTop](#TopOfPage)
 
-### Module 9: Creating playbooks
+### Creating playbooks
 
 Start with the [presentation](https://techcommunity.microsoft.com/t5/forums/editpage/board-id/AzureSentinelBlog/message-id/243/is-draft/true?attachment-id=21925){:target="_blank"}
 
@@ -240,7 +240,7 @@ Start with the [presentation](https://techcommunity.microsoft.com/t5/forums/edit
 
 [BackToTop](#TopOfPage)
 
-### Module 10: Developing workbooks
+### Developing workbooks
 
 As we work to develop training materials for workbooks, start with the [workbooks documentation](https://docs.microsoft.com/en-us/azure/azure-monitor/app/usage-workbooks){:target="_blank"}
 
@@ -250,7 +250,7 @@ You might also want to refer to these workbook examples:
 
 [BackToTop](#TopOfPage)
 
-### Module 13: Hunting
+### Hunting
 
 Whatever is your methodology and use case for hunting, Azure Sentinel is a great hunting platform.
 
@@ -273,7 +273,7 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 --------------------- <a name="AdvancedTopics"></a>
 ## Advanced Topics
 
-### Module 14: Extending and integrating Azure Sentinel
+### Extending and integrating Azure Sentinel
 
 - Webinar: [Video](https://youtu.be/Cu4dc88GH1k){:target="_blank"}
 - Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjRd01jxCSmbydt0){:target="_blank"}
@@ -281,13 +281,13 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 
 [BackToTop](#TopOfPage)
  
-### Module 15: Roadmap
+### Roadmap
  
 Since roadmap information is provided under NDA, please reach out to your Microsoft account team to discuss an Azure Sentinel roadmap presentation. 
 
 [BackToTop](#TopOfPage)
 
-### Module 16: Where do I go from here?
+### Where do I go from here?
  
 - Join our [Private Previews](https://aka.ms/SecurityPrP){:target="_blank"} program
 - Ask, or answer other on the [Azure Sentinel Tech Community](https://techcommunity.microsoft.com/t5/Azure-Sentinel/bd-p/AzureSentinel){:target="_blank"}
