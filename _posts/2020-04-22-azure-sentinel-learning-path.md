@@ -8,6 +8,8 @@ This overview is based on the [Blog post](https://techcommunity.microsoft.com/t5
 
 As not everyone has the same maturity level when starting their Azure Sentinel Learning Path, I created, with the help of [Javier Soriano](https://www.linkedin.com/in/sorianojavier/){:target="_blank"}, a 3 level (Beginner/Advanced/Expert) approach to get to the level you want, often related to your role in the organisation.
 
+<a name="TopOfPage"></a>
+
 ## Table of contents
 
 [Beginner (BDM, presales roles)](#Beginner)
@@ -58,7 +60,7 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 ## Beginner (BDM, presales roles) 
 
-### The Basics
+### The Basics [TOP](#TopOfPage)
 
 - (The real beginning!) [Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/){:target="_blank"}
 - [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview){:target="_blank"} - Introduction [Video 1](https://www.youtube.com/watch?v=dRpOR2GpL1s){:target="_blank"}, [Video 2](https://www.youtube.com/watch?v=XXZp6LQZSJU){:target="_blank"}
@@ -67,7 +69,7 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 - [Connect data sources](https://docs.microsoft.com/en-us/azure/sentinel/connect-data-sources){:target="_blank"}
 - Improve security with Azure Sentinel, [a cloud-native SIEM and SOAR solution](https://www.youtube.com/watch?v=oiWInLYvnUk){:target="_blank"}
 
-### Module 1: Technical overview (Level 200)
+### Module 1: Technical overview (Level 200) [TOP](#TopOfPage)
 
 If you want to get an initial overview of Azure Sentinel's technical capabilities
 
