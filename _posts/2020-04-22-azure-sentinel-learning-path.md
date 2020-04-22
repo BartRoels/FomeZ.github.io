@@ -60,7 +60,7 @@ You can read more about the features described in the Webinar here:
 
 ### Module 2: Azure Sentinel role (Level 200)
 
-What is the typical use case for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/AzureSentinelBlog/243/1/L400-P2%20Use%20cases.pdf) {:target="_blank"}
+What is the typical use case for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/AzureSentinelBlog/243/1/L400-P2%20Use%20cases.pdf){:target="_blank"}
 
 **Learn more** :
 
@@ -99,8 +99,6 @@ An Azure Sentinel instance is called a workspace. Multiple workspaces are often 
 - Use [KQL queries in Azure Sentinel across workspaces](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/cross-workspace-query) to combine multiple workspaces into a single system.
 - Use[ resource RBAC](https://techcommunity.microsoft.com/t5/azure-sentinel/controlling-access-to-azure-sentinel-data-resource-rbac/ba-p/1301463) to enable multiple teams to use a single workspace.
 - [Use Azure Lighthouse to extend multi-workspace capabilities across tenants.](https://techcommunity.microsoft.com/t5/azure-sentinel/using-azure-lighthouse-and-azure-sentinel-to-monitor-across/ba-p/1043899)
-
-###
 
 ### Module 12: Handling incidents
 
