@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Azure Sentinel Learning paths for Beginners, Advanced and Experts'
-image: /img/WVD-Logo.jpg
+image: /img/AzureSentinel.png
 published: true
 ---
 This overview is based on the [Blog post](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310){:target="_blank"} "Become an Azure Sentinel Ninja: The Complere Level 400 Training created by [Ofer Shezaf](https://www.linkedin.com/in/oshezaf/){:target="_blank"}
