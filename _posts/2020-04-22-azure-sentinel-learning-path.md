@@ -41,7 +41,9 @@ published: true
 
 - Module 13: Hunting
 
-## Beginner (BDM, presales roles) <a name="Beginner"></a>
+------- <a name="Beginner"></a>
+
+## Beginner (BDM, presales roles) 
 
 ### Module 1: Technical overview
 
