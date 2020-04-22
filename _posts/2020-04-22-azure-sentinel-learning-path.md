@@ -47,20 +47,20 @@ published: true
 
 ### Module 1: Technical overview
 
-If you want to get an initial overview of Azure Sentinel&#39;s technical capabilities. The presentation also servers as the Azure Sentinel Level 200 presentation:
+If you want to get an initial overview of Azure Sentinel's technical capabilities. The presentation also can serve as an Azure Sentinel Level 200 presentation:
 
-- Webinar: [MP4](https://1drv.ms/v/s%21AnEPjr8tHcNmggMkcVweWOqoxuN9), [YouTube](https://youtu.be/7An7BB-CcQI)
-- [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjrN_zHpzbnfX_mX) (updated)
+- Webinar: [Video](https://youtu.be/7An7BB-CcQI){:target="_blank"}
+- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmggKaEEBPHduhVbre){:target="_blank"} (updated)
 
-**Learn more**
+**Learn more** 
 
 You can read more about the features described in the Webinar here:
 
-- [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229)
+- [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229){:target="_blank"}
 
 ### Module 2: Azure Sentinel role
 
-Still at level 200: what are the typical use for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://techcommunity.microsoft.com/t5/forums/editpage/board-id/AzureSentinelBlog/message-id/243/is-draft/true?attachment-id=21924)
+Level 200: what is the typical use for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://techcommunity.microsoft.com/t5/forums/editpage/board-id/AzureSentinelBlog/message-id/243/is-draft/true?attachment-id=21924)
 
 **Learn more** :
 
