@@ -60,12 +60,12 @@ You can read more about the features described in the Webinar here:
 
 ### Module 2: Azure Sentinel role
 
-Level 200: what is the typical use for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://techcommunity.microsoft.com/t5/forums/editpage/board-id/AzureSentinelBlog/message-id/243/is-draft/true?attachment-id=21924)
+Level 200: what is the typical use for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://techcommunity.microsoft.com/t5/forums/editpage/board-id/AzureSentinelBlog/message-id/243/is-draft/true?attachment-id=21924){:target="_blank"}
 
 **Learn more** :
 
-- [Azure Sentinel pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/?service=azure-sentinel)
-- [Azure Sentinel](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/) and [Log Analytics](https://azure.microsoft.com/en-us/pricing/details/monitor/) pricing pages
+- [Azure Sentinel pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/?service=azure-sentinel){:target="_blank"}
+- [Azure Sentinel](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/) and [Log Analytics](https://azure.microsoft.com/en-us/pricing/details/monitor/){:target="_blank"} pricing pages
 
 --------------------- <a name="Advanced"></a>
 
@@ -78,14 +78,14 @@ Level 200: what is the typical use for Azure Sentinel? What are customers findin
 
 If you want to get an initial overview of Azure Sentinel&#39;s technical capabilities. The presentation also servers as the Azure Sentinel Level 200 presentation:
 
-- Webinar: [MP4](https://1drv.ms/v/s%21AnEPjr8tHcNmggMkcVweWOqoxuN9), [YouTube](https://youtu.be/7An7BB-CcQI)
-- [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjrN_zHpzbnfX_mX) (updated)
+- Webinar: [Video](https://youtu.be/7An7BB-CcQI){:target="_blank"}
+- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjrN_zHpzbnfX_mX){:target="_blank"} (updated)
 
 **Learn more**
 
 You can read more about the features described in the Webinar here:
 
-- [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229)
+- [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229){:target="_blank"}
 
 ### Module 3: Cloud architecture and multi-worksapce/tenant support
 
@@ -94,9 +94,9 @@ An Azure Sentinel instance is called a workspace. Multiple workspaces are often 
 ###
 
 
-- Webinar (includes Module 4): [MP4](https://1drv.ms/v/s%21AnEPjr8tHcNmggvs6o4EcxYTgvV6), [YouTube](https://youtu.be/_mm3GNwPBHU)
-- [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjuszn8-jty5Gbx7) (includes Module 4)
-- You may also want to register for the MSSP and distributed organization webinar on April 20th [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNlI1UjZJTzlCM0Q2M1dNMk1NQjJSTFM4OC4u).
+- Webinar (includes Module 4): [Video](https://youtu.be/_mm3GNwPBHU){:target="_blank"}
+- Webinar (includes Module 4): [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjuszn8-jty5Gbx7){:target="_blank"}  
+- You may also want to register for the MSSP and distributed organization webinar on April 20th [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNlI1UjZJTzlCM0Q2M1dNMk1NQjJSTFM4OC4u) (includes Module 4)
 
 **Learn more**
 
