@@ -52,6 +52,8 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 - Module 16: Where to go next?
 
+- Extra Resources
+
 --------------------- <a name="Beginner"></a>
 
 ## Beginner (BDM, presales roles) 
@@ -259,10 +261,8 @@ Since roadmap information is provided under NDA, please reach out to your Micros
 - Contribute or enhance rules, queries, workbooks, connectors and more to the community on the [Azure Sentinel GitHub](https://github.com/Azure/Azure-Sentinel/wiki){:target="_blank"}
 - As a last resort, send an e-mail to [AzureSentinel@microsoft.com](AzureSentinel@microsoft.com){:target="_blank"}
 
-### Extra Content
+### Extra Resources
 
 - Learn Azure Sentinel ([eBook/Print](https://www.packtpub.com/eu/security/learn-azure-sentinel){:target="_blank"})
 - Implementing and Administering Azure Sentinel ([Lynda.com](https://www.lynda.com/Azure-tutorials/Implementing-Administering-Azure-Sentinel/2813287-2.html){:target="_blank"})
 - Step-by-Step Guide to Deploy Azure Sentinel ([Blog](https://www.infusedinnovations.com/blog/intelligent-cloud/step-by-step-guide-to-deploy-azure-sentinel){:target="_blank"})
-
-
