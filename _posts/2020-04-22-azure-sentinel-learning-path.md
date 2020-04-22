@@ -45,9 +45,9 @@ published: true
 
 ## Beginner (BDM, presales roles) 
 
-### Module 1: Technical overview
+### Module 1: Technical overview (Level 200)
 
-If you want to get an initial overview of Azure Sentinel's technical capabilities. The presentation also can serve as an Azure Sentinel Level 200 presentation:
+If you want to get an initial overview of Azure Sentinel's technical capabilities
 
 - Webinar: [Video](https://youtu.be/7An7BB-CcQI){:target="_blank"}
 - Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmggKaEEBPHduhVbre){:target="_blank"} (updated)
@@ -58,9 +58,9 @@ You can read more about the features described in the Webinar here:
 
 - [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229){:target="_blank"}
 
-### Module 2: Azure Sentinel role
+### Module 2: Azure Sentinel role (Level 200)
 
-Level 200: what is the typical use for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://techcommunity.microsoft.com/t5/forums/editpage/board-id/AzureSentinelBlog/message-id/243/is-draft/true?attachment-id=21924){:target="_blank"}
+What is the typical use for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://techcommunity.microsoft.com/t5/forums/editpage/board-id/AzureSentinelBlog/message-id/243/is-draft/true?attachment-id=21924){:target="_blank"}
 
 **Learn more** :
 
