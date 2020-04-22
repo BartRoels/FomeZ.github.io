@@ -8,22 +8,6 @@ published: true
 # Azure Sentinel learning paths
 
 # Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
 
 [Beginner (BDM, presales roles)](#Beginner)
 
@@ -31,7 +15,7 @@ The second paragraph text
 
 - Module 2: Azure Sentinel role
 
-### Advanced (Security Analyst)
+[Advanced (Security Analyst)](#Advanced)
 
 - Module 1: Technical overview
 
@@ -41,7 +25,7 @@ The second paragraph text
 
 - Module 13: Hunting
 
-### Expert (SOC engineer)
+Expert (SOC engineer)
 
 - Module 1: Technical overview
 
@@ -60,9 +44,6 @@ The second paragraph text
 ## Beginner (BDM, presales roles) <a name="Beginner"></a>
 
 ### Module 1: Technical overview
-
-###
-
 
 If you want to get an initial overview of Azure Sentinel&#39;s technical capabilities. The presentation also servers as the Azure Sentinel Level 200 presentation:
 
@@ -84,7 +65,7 @@ Still at level 200: what are the typical use for Azure Sentinel? What are custom
 - [Azure Sentinel pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/?service=azure-sentinel)
 - [Azure Sentinel](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/) and [Log Analytics](https://azure.microsoft.com/en-us/pricing/details/monitor/) pricing pages
 
-## Advanced (Security Analyst)
+## Advanced (Security Analyst) <a name="Advanced"></a>
 
 ### Module 1: Technical overview
 
