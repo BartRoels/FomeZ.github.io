@@ -2,7 +2,7 @@
 layout: post
 title: 'Azure Sentinel Learning paths for Beginners, Advanced and Experts'
 image: /img/WVD-Logo.jpg
-published: false
+published: true
 ---
 
 ## Table of contents
@@ -58,7 +58,7 @@ You can read more about the features described in the Webinar here:
 
 ### Module 2: Azure Sentinel role (Level 200)
 
-What is the typical use case for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](content/L400-P2-Use-cases.pdf)
+What is the typical use case for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](https://github.com/BartRoels/bartroels.github.io/blob/master/content/L400-P2-Use-cases.pdf){:target="_blank"}
 
 **Learn more** :
 
