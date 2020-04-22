@@ -59,7 +59,7 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 ### The Basics
 
 - (The real beginning!) [Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/){:target="_blank"}
-- [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview){:target="_blank"}
+- [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview){:target="_blank"} - Introduction [Video](https://www.youtube.com/watch?v=dRpOR2GpL1s){:target="_blank"}
 - [Global prerequisites](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard#global-prerequisites){:target="_blank"} + [create a Log Analytics workspace](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-quick-create-workspace){:target="_blank"}
 - [Enable Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard#enable-azure-sentinel-){:target="_blank"}
 - [Connect data sources](https://docs.microsoft.com/en-us/azure/sentinel/connect-data-sources){:target="_blank"}
