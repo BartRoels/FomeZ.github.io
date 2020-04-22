@@ -132,7 +132,9 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 - [Explorer Notebook Series: The Linux Host Explorer](https://techcommunity.microsoft.com/t5/azure-sentinel/explorer-notebook-series-the-linux-host-explorer/ba-p/1138273)
 - [Using Threat Intelligence in your Jupyter Notebooks](https://techcommunity.microsoft.com/t5/azure-sentinel/using-threat-intelligence-in-your-jupyter-notebooks/ba-p/860239)
 
-Expert (SOC engineer) <a name="Expert"></a>
+--------------------- <a name="Beginner"></a>
+
+## Expert (SOC engineer)
 
 ### Module 1: Technical overview
 
