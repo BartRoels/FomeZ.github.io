@@ -114,13 +114,13 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 
 - [Hunting and Notebooks feature overview presentation](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/AzureSentinelBlog/243/3/L400-P8%20Notebooks%20and%20hunting.pdf){:target="_blank"}
 - Threat hunting webinar ([Video](https://youtu.be/Tiz-ftnlTg4){:target="_blank"}) and presentations [(Presentation 1](https://1drv.ms/b/s!AnEPjr8tHcNmgVlNSw5ouPxYkVS0?e=j5l1hI){:target="_blank"}, [Presentation 2](https://1drv.ms/b/s!AnEPjr8tHcNmgWLisWDg0ha36wMd?e=YJWjQ7){:target="_blank"})
-- Threat hunting revisited ([Video](https://youtu.be/BTEV_b6-vtg){:target="_blank"}, [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmghNdbqppq1myNzG_)){:target="_blank"}
+- Threat hunting revisited ([Video](https://youtu.be/BTEV_b6-vtg){:target="_blank"}, [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmghNdbqppq1myNzG_){:target="_blank"})
 - Threat Hunting - AWS using Sentinel, webinar on April 22nd, register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNlI1UjZJTzlCM0Q2M1dNMk1NQjJSTFM4OC4u){:target="_blank"}
 
 **Learn more**
 
 - [Why Use Jupyter for Security Investigations?](https://techcommunity.microsoft.com/t5/azure-sentinel/why-use-jupyter-for-security-investigations/ba-p/475729){:target="_blank"}
-- Security Investigation with Azure Sentinel and Jupyter Notebooks ([part 1](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/432921){:target="_blank"}, [part 2](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/483466){:target="_blank"}, [part 3](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/561413)){:target="_blank"}
+- Security Investigation with Azure Sentinel and Jupyter Notebooks ([part 1](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/432921){:target="_blank"}, [part 2](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/483466){:target="_blank"}, [part 3](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/561413){:target="_blank"})
 - [msticpy - Python Defender Tools](https://techcommunity.microsoft.com/t5/azure-sentinel/msticpy-python-defender-tools/ba-p/648929){:target="_blank"}
 - [What am I looking at? - Using Notebooks to gain situational awareness](https://techcommunity.microsoft.com/t5/azure-sentinel/what-am-i-looking-at-using-notebooks-to-gain-situational/ba-p/891818){:target="_blank"}
 - [Explorer Notebook Series: The Linux Host Explorer](https://techcommunity.microsoft.com/t5/azure-sentinel/explorer-notebook-series-the-linux-host-explorer/ba-p/1138273){:target="_blank"}
@@ -175,7 +175,7 @@ The KQL Webinar is planned for June 2nd. Meanwhile, to learn KQL, use these reso
 
 In addition to KQL, to applying it to Azure Sentinel requires understanding the [table schemas used by Azure Sentinel](https://github.com/Azure/Azure-Sentinel/wiki/DataSource-Schema-Reference){:target="_blank"}
 
-### Module 8: Write rules
+### Module 8: Write rules  
 
 - Webinar: [Video](https://youtu.be/pJjljBT4ipQ){:target="_blank"}
 - Webinar: [Presentation](https://1drv.ms/b/s%21AnEPjr8tHcNmghhrDiXV1NeTZCZI){:target="_blank"}
@@ -212,13 +212,13 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 
 - [Hunting and Notebooks feature overview presentation](https://techcommunity.microsoft.com/gxcuf89792/attachments/gxcuf89792/AzureSentinelBlog/243/3/L400-P8%20Notebooks%20and%20hunting.pdf){:target="_blank"}
 - Threat hunting webinar ([Video](https://youtu.be/Tiz-ftnlTg4){:target="_blank"}) and presentations [(Presentation 1](https://1drv.ms/b/s!AnEPjr8tHcNmgVlNSw5ouPxYkVS0?e=j5l1hI){:target="_blank"}, [Presentation 2](https://1drv.ms/b/s!AnEPjr8tHcNmgWLisWDg0ha36wMd?e=YJWjQ7){:target="_blank"})
-- Threat hunting revisited ([Video](https://youtu.be/BTEV_b6-vtg){:target="_blank"}, [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmghNdbqppq1myNzG_)){:target="_blank"}
+- Threat hunting revisited ([Video](https://youtu.be/BTEV_b6-vtg){:target="_blank"}, [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmghNdbqppq1myNzG_){:target="_blank"})
 - Threat Hunting - AWS using Sentinel, webinar on April 22nd, register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNlI1UjZJTzlCM0Q2M1dNMk1NQjJSTFM4OC4u){:target="_blank"}
 
 **Learn more**
 
 - [Why Use Jupyter for Security Investigations?](https://techcommunity.microsoft.com/t5/azure-sentinel/why-use-jupyter-for-security-investigations/ba-p/475729){:target="_blank"}
-- Security Investigation with Azure Sentinel and Jupyter Notebooks ([part 1](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/432921){:target="_blank"}, [part 2](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/483466){:target="_blank"}, [part 3](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/561413)){:target="_blank"}
+- Security Investigation with Azure Sentinel and Jupyter Notebooks ([part 1](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/432921){:target="_blank"}, [part 2](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/483466){:target="_blank"}, [part 3](https://techcommunity.microsoft.com/t5/azure-sentinel/security-investigation-with-azure-sentinel-and-jupyter-notebooks/ba-p/561413){:target="_blank"})
 - [msticpy - Python Defender Tools](https://techcommunity.microsoft.com/t5/azure-sentinel/msticpy-python-defender-tools/ba-p/648929){:target="_blank"}
 - [What am I looking at? - Using Notebooks to gain situational awareness](https://techcommunity.microsoft.com/t5/azure-sentinel/what-am-i-looking-at-using-notebooks-to-gain-situational/ba-p/891818){:target="_blank"}
 - [Explorer Notebook Series: The Linux Host Explorer](https://techcommunity.microsoft.com/t5/azure-sentinel/explorer-notebook-series-the-linux-host-explorer/ba-p/1138273){:target="_blank"}
