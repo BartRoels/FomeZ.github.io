@@ -132,8 +132,6 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 
 ### Module 1: Technical overview
 
-###
-
 
 If you want to get an initial overview of Azure Sentinel&#39;s technical capabilities. The presentation also servers as the Azure Sentinel Level 200 presentation:
 
@@ -145,8 +143,6 @@ If you want to get an initial overview of Azure Sentinel&#39;s technical capabil
 You can read more about the features described in the Webinar here:
 
 - [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229){:target="_blank"}
-
-###
 
 ### Module 3: Cloud architecture and multi-worksapce/tenant support
 
