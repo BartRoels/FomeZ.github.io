@@ -4,6 +4,9 @@ title: 'Azure Sentinel Learning paths for Beginners, Advanced and Experts'
 image: /img/WVD-Logo.jpg
 published: true
 ---
+This overview is based on a Blog post Become an Azure Sentinel Ninja: The Complere Level 400 Training.
+
+As not everyone has the same maturity level when starting their Azure Sentinel Learning Path, I decided together with the help of [Javier Soriano](https://www.linkedin.com/in/sorianojavier/) to create a 3 level approach to get to the level you want, often related to your role in the organisation.
 
 ## Table of contents
 
