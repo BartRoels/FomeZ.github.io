@@ -7,43 +7,57 @@ published: true
 
 # Azure Sentinel learning paths
 
-# Contents
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
 
-Azure Sentinel learning paths
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
 
-[Beginner (BDM, presales roles) 1](#Beginner)
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
 
-[Module 1: Technical overview 1](#_Toc37671946)
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
 
-[Module 2: Azure Sentinel role 2](#_Toc37671947)
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
 
-[Advanced (Security Analyst) 2](#_Toc37671948)
+[Beginner (BDM, presales roles)](#_Beginner)
 
-[Module 1: Technical overview 2](#_Toc37671949)
+- Module 1: Technical overview
 
-[Module 3: Cloud architecture and multi-worksapce/tenant support 2](#_Toc37671950)
+- Module 2: Azure Sentinel role
 
-[Module 12: Handling incidents 3](#_Toc37671951)
+### Advanced (Security Analyst)
 
-[Module 13: Hunting 3](#_Toc37671952)
+- Module 1: Technical overview
 
-[Expert (SOC engineer) 3](#_Toc37671953)
+- Module 3: Cloud architecture and multi-worksapce/tenant support
 
-[Module 1: Technical overview 3](#_Toc37671954)
+- Module 12: Handling incidents
 
-[Module 3: Cloud architecture and multi-worksapce/tenant support 4](#_Toc37671955)
+- Module 13: Hunting
 
-[Module 7: KQL 4](#_Toc37671956)
+### Expert (SOC engineer)
 
-[Module 8: Write rules 4](#_Toc37671957)
+- Module 1: Technical overview
 
-[Module 9: Creating playbooks 5](#_Toc37671958)
+- Module 3: Cloud architecture and multi-worksapce/tenant support
 
-[Module 10: Developing workbooks 5](#_Toc37671959)
+- Module 7: KQL
 
-[Module 13: Hunting 5](#_Toc37671960)
+- Module 8: Write rules
 
-<a name="Beginner"></a> 
+- Module 9: Creating playbooks
+
+- Module 10: Developing workbooks
+
+- Module 13: Hunting
+
+<a name="Beginner"></a>
 ## Beginner (BDM, presales roles)
 
 ### Module 1: Technical overview
