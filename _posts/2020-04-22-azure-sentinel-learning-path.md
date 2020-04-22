@@ -25,7 +25,7 @@ This is a sub paragraph, formatted in heading 3 style
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
 
-[Beginner (BDM, presales roles)](#_Beginner)
+[Beginner (BDM, presales roles)](#Beginner)
 
 - Module 1: Technical overview
 
@@ -57,8 +57,7 @@ The second paragraph text
 
 - Module 13: Hunting
 
-<a name="Beginner"></a>
-## Beginner (BDM, presales roles)
+## Beginner (BDM, presales roles) <a name="Beginner"></a>
 
 ### Module 1: Technical overview
 
