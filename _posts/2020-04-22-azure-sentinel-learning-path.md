@@ -59,6 +59,7 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 ### The Basics
 
 - (The real beginning!) [Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/){:target="_blank"}
+- [What is Azure Sentinel?](https://docs.microsoft.com/en-us/azure/sentinel/overview){:target="_blank"}
 - [Global prerequisites](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard#global-prerequisites){:target="_blank"} + [create a Log Analytics workspace](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-quick-create-workspace){:target="_blank"}
 - [Enable Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard#enable-azure-sentinel-){:target="_blank"}
 - [Connect data sources](https://docs.microsoft.com/en-us/azure/sentinel/connect-data-sources){:target="_blank"}
@@ -240,10 +241,10 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 ## Advanced Topics
 
 ### Module 14: Extending and integrating Azure Sentinel
- 
-Webinar: MP4, YouTube
-Presentation (updated)
-Blog post: Extending Azure Sentinel: APIs, Integration and management automation
+
+- Webinar: [Video](https://youtu.be/Cu4dc88GH1k){:target="_blank"}
+- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjRd01jxCSmbydt0){:target="_blank"}
+- Blog post: [Extending Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/extending-azure-sentinel-apis-integration-and-management/ba-p/1116885){:target="_blank"}: APIs, Integration and management automation
  
 ### Module 15: Roadmap
  
@@ -251,8 +252,8 @@ Since roadmap information is provided under NDA, please reach out to your Micros
 
 ### Module 16: Where do I go from here?
  
-Join our [Private Previews](https://aka.ms/SecurityPrP){:target="_blank"} program
-Ask, or answer other on the Azure Sentinel Tech Community
-Submit feature requests using User voice
-Contribute or enhance rules, queries, workbooks, connectors and more to the community on the Azure Sentinel GitHub
-As a last resort, send an e-mail to AzureSentinel@microsoft.com
+- Join our [Private Previews](https://aka.ms/SecurityPrP){:target="_blank"} program
+- Ask, or answer other on the [Azure Sentinel Tech Community](https://techcommunity.microsoft.com/t5/Azure-Sentinel/bd-p/AzureSentinel){:target="_blank"}
+- Submit feature requests using [User voice](https://feedback.azure.com/forums/920458-azure-sentinel){:target="_blank"}
+- Contribute or enhance rules, queries, workbooks, connectors and more to the community on the [Azure Sentinel GitHub](https://github.com/Azure/Azure-Sentinel/wiki){:target="_blank"}
+- As a last resort, send an e-mail to [AzureSentinel@microsoft.com](AzureSentinel@microsoft.com){:target="_blank"}
