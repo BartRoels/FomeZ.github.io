@@ -10,6 +10,8 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 <a name="TopOfPage"></a>
 
+
+
 ## Table of contents
 
 [Beginner (BDM, presales roles)](#Beginner)
