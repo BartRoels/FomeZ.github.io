@@ -44,6 +44,14 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 - Module 13: Hunting
 
+[Advanced Topics](#AdvancedTopics)
+
+- Module 14: Automating and integrating 
+
+- Module 15: Roadmap - since it requires an NDA, contact your Microsoft contact for details.
+
+- Module 16: Where to go next?
+
 --------------------- <a name="Beginner"></a>
 
 ## Beginner (BDM, presales roles) 
@@ -228,3 +236,23 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 - [Explorer Notebook Series: The Linux Host Explorer](https://techcommunity.microsoft.com/t5/azure-sentinel/explorer-notebook-series-the-linux-host-explorer/ba-p/1138273){:target="_blank"}
 - [Using Threat Intelligence in your Jupyter Notebooks](https://techcommunity.microsoft.com/t5/azure-sentinel/using-threat-intelligence-in-your-jupyter-notebooks/ba-p/860239){:target="_blank"}
 
+--------------------- <a name="AdvancedTopics"></a>
+## Advanced Topics
+
+### Module 14: Extending and integrating Azure Sentinel
+ 
+Webinar: MP4, YouTube
+Presentation (updated)
+Blog post: Extending Azure Sentinel: APIs, Integration and management automation
+ 
+### Module 15: Roadmap
+ 
+Since roadmap information is provided under NDA, please reach out to your Microsoft account team to discuss an Azure Sentinel roadmap presentation. 
+
+### Module 16: Where do I go from here?
+ 
+Join our [Private Previews](https://aka.ms/SecurityPrP){:target="_blank"} program
+Ask, or answer other on the Azure Sentinel Tech Community
+Submit feature requests using User voice
+Contribute or enhance rules, queries, workbooks, connectors and more to the community on the Azure Sentinel GitHub
+As a last resort, send an e-mail to AzureSentinel@microsoft.com
