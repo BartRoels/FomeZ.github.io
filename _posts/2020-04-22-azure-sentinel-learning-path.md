@@ -264,5 +264,5 @@ Since roadmap information is provided under NDA, please reach out to your Micros
 - Learn Azure Sentinel ([eBook/Print](https://www.packtpub.com/eu/security/learn-azure-sentinel){:target="_blank"})
 - Implementing and Administering Azure Sentinel ([Lynda.com](https://www.lynda.com/Azure-tutorials/Implementing-Administering-Azure-Sentinel/2813287-2.html){:target="_blank"})
 - Step-by-Step Guide to Deploy Azure Sentinel ([Blog](https://www.infusedinnovations.com/blog/intelligent-cloud/step-by-step-guide-to-deploy-azure-sentinel){:target="_blank"})
--
+
 
