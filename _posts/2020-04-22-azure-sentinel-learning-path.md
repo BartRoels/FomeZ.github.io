@@ -130,15 +130,14 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 
 ## Expert (SOC engineer)
 
-### Module 1: Technical overview
+### Module 1: Technical overview (Level 200)
 
-
-If you want to get an initial overview of Azure Sentinel&#39;s technical capabilities. The presentation also servers as the Azure Sentinel Level 200 presentation:
+If you want to get an initial overview of Azure Sentinel's technical capabilities
 
 - Webinar: [Video](https://youtu.be/7An7BB-CcQI){:target="_blank"}
-- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjrN_zHpzbnfX_mX){:target="_blank"} (updated)
+- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmggKaEEBPHduhVbre){:target="_blank"} (updated)
 
-**Learn more**
+**Learn more** 
 
 You can read more about the features described in the Webinar here:
 
