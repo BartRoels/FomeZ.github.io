@@ -41,7 +41,7 @@ published: true
 
 - Module 13: Hunting
 
-------- <a name="Beginner"></a>
+--------------------- <a name="Beginner"></a>
 
 ## Beginner (BDM, presales roles) 
 
@@ -66,6 +66,8 @@ Still at level 200: what are the typical use for Azure Sentinel? What are custom
 
 - [Azure Sentinel pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/?service=azure-sentinel)
 - [Azure Sentinel](https://azure.microsoft.com/en-us/pricing/details/azure-sentinel/) and [Log Analytics](https://azure.microsoft.com/en-us/pricing/details/monitor/) pricing pages
+
+--------------------- <a name="Advanced"></a>
 
 ## Advanced (Security Analyst) <a name="Advanced"></a>
 
