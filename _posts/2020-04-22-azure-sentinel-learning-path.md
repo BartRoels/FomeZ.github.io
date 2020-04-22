@@ -7,9 +7,9 @@ title: 2020-04-22-Azure-Sentinel-Learning-Path
 
 # Contents
 
-[Azure Sentinel learning paths](#_Toc37671944)
+Azure Sentinel learning paths
 
-[Beginner (BDM, presales roles) 1](#_Toc37671945)
+[Beginner (BDM, presales roles) 1](#Beginner)
 
 [Module 1: Technical overview 1](#_Toc37671946)
 
@@ -41,6 +41,7 @@ title: 2020-04-22-Azure-Sentinel-Learning-Path
 
 [Module 13: Hunting 5](#_Toc37671960)
 
+<a name="Beginner"></a> 
 ## Beginner (BDM, presales roles)
 
 ### Module 1: Technical overview
