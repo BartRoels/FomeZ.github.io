@@ -58,7 +58,7 @@ You can read more about the features described in the Webinar here:
 
 ### Module 2: Azure Sentinel role (Level 200)
 
-What is the typical use case for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](content/L400-P2-se-cases.pdf){:target="_blank"}
+What is the typical use case for Azure Sentinel? What are customers finding in it, and also, how is it priced? All in this [presentation](content/L400-P2-use-cases.pdf){:target="_blank"}
 
 **Learn more** :
 
