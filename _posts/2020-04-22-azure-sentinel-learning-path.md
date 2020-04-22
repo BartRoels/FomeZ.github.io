@@ -1,8 +1,10 @@
 ---
 layout: post
+title: Azure Sentinel Learning Path
+image: /img/WVD-Logo.jpg
 published: true
-title: 2020-04-22-Azure-Sentinel-Learning-Path
 ---
+
 # Azure Sentinel learning paths
 
 # Contents
