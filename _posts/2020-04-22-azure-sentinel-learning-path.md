@@ -20,7 +20,7 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 - Module 1: Technical overview
 
-- Module 3: Cloud architecture and multi-worksapce/tenant support
+- Module 3: Cloud architecture and multi-workspace/tenant support
 
 - Module 12: Handling incidents
 
@@ -30,7 +30,7 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 - Module 1: Technical overview
 
-- Module 3: Cloud architecture and multi-worksapce/tenant support
+- Module 3: Cloud architecture and multi-workspace/tenant support
 
 - Module 7: KQL
 
@@ -85,7 +85,7 @@ You can read more about the features described in the Webinar here:
 
 - [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229){:target="_blank"}
 
-### Module 3: Cloud architecture and multi-worksapce/tenant support
+### Module 3: Cloud architecture and multi-workspace/tenant support
 
 An Azure Sentinel instance is called a workspace. Multiple workspaces are often necessary and can act together as a single Azure Sentinel system. The first half of the Webinar above discusses Azure Sentinel's workspace architecture.
 
@@ -143,7 +143,7 @@ You can read more about the features described in the Webinar here:
 
 - [Using the new built-in URL detonation in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/using-the-new-built-in-url-detonation-in-azure-sentinel/ba-p/996229){:target="_blank"}
 
-### Module 3: Cloud architecture and multi-worksapce/tenant support
+### Module 3: Cloud architecture and multi-workspace/tenant support
 
 An Azure Sentinel instance is called a workspace. Multiple workspaces are often necessary and can act together as a single Azure Sentinel system. The first half of the Webinar above discusses Azure Sentinel's workspace architecture.
 
