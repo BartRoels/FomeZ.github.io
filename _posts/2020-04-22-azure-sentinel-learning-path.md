@@ -279,6 +279,10 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 - Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjRd01jxCSmbydt0){:target="_blank"}
 - Blog post: [Extending Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/extending-azure-sentinel-apis-integration-and-management/ba-p/1116885){:target="_blank"}: APIs, Integration and management automation
 
+### Deploying and Managing Azure Sentinel as Code
+
+- [Blog](https://techcommunity.microsoft.com/t5/azure-sentinel/deploying-and-managing-azure-sentinel-as-code/ba-p/1131928){:target="_blank"} by [Javier Soriano](https://www.linkedin.com/in/sorianojavier/){:target="_blank"} and [Philippe Zenhaeusern](https://www.linkedin.com/in/philippe-zenhaeusern/){:target="_blank"}
+
 [BackToTop](#TopOfPage)
  
 ### Roadmap
@@ -299,6 +303,7 @@ Since roadmap information is provided under NDA, please reach out to your Micros
 
 ### Extra Resources
 
+- Azure Sentinel's Resources in one place! [Blog](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-resource-terminus-board-here/ba-p/1269252?_lrsc=7eb54028-6f6b-449d-8d31-f83f6a8f9cf2){:target="_blank"}
 - Learn Azure Sentinel ([eBook/Print](https://www.packtpub.com/eu/security/learn-azure-sentinel){:target="_blank"})
 - Implementing and Administering Azure Sentinel ([Lynda.com](https://www.lynda.com/Azure-tutorials/Implementing-Administering-Azure-Sentinel/2813287-2.html){:target="_blank"})
 - Step-by-Step Guide to Deploy Azure Sentinel ([Blog](https://www.infusedinnovations.com/blog/intelligent-cloud/step-by-step-guide-to-deploy-azure-sentinel){:target="_blank"})
