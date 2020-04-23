@@ -20,4 +20,4 @@ Older once, still need to refresh them, but on my planning for summer 2020!
 
 I live in Belgium togheter with my wife Katrien and my son Joren. I am also a plus dad for Maren and Yentl.
 
-![Image of my family](img/myfamily.jpg){: .shadow}{: .center-block :}
+![Image of my family](img/myfamily.jpg "My family"){: .shadow}{: .center-block :}{: .img-rounded}
