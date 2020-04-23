@@ -2,7 +2,7 @@
 layout: page
 title: About me
 ---
-![Image of my family](img/myfamily.jpg){: .shadow}{: .right-block :}
+![Image of my family](img/myfamily.jpg){: .shadow}{: .right :}
 
 My name is Bart Roels. 
 I am a Partner Technology Strategist at Microsoft Belgium.
