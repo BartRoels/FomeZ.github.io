@@ -4,7 +4,7 @@ title: About me
 published: true
 ---
 ![AzureNinjaCatLogo](img/AzureNinjaCatLogo.jpg){: .shadow}{: .center-block}{: .rounded}
-test 1
+test 3
 
 My name is Bart Roels. 
 I am a Partner Technology Strategist at Microsoft Belgium.
