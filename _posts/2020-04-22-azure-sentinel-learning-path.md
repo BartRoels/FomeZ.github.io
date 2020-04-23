@@ -290,7 +290,7 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 [BackToTop](#TopOfPage)
  
 ### Roadmap
- 
+
 Since roadmap information is provided under NDA, please reach out to your Microsoft account team to discuss an Azure Sentinel roadmap presentation. 
 
 [BackToTop](#TopOfPage)
