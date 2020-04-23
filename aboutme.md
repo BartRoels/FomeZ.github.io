@@ -13,6 +13,7 @@ I am focusing on Microsoft technologies, especially cloud solutions based on Mic
 ![Microsoft-Global-Challenger.png]({{site.baseurl}}/img/Microsoft-Global-Challenger.png){:height="110px" width="110px"}
 
 Older once (still need to refresh them, but on my planning for summer 2020!)
+
 ![Microsoft_Exam533.png]({{site.baseurl}}/img/Microsoft_Exam533.png){:height="110px" width="110px"}
 ![Microsoft_Exam534.png]({{site.baseurl}}/img/Microsoft_Exam534.png){:height="110px" width="110px"}
 
