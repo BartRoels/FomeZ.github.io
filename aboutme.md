@@ -1,8 +1,10 @@
 ---
 layout: page
 title: About me
+published: true
 ---
-![Image of my family](img/myfamily.jpg){: .shadow}{: .right :}
+![Image of my family](img/AzureNinjaCatLogo.jpg){: .shadow}{: .right-block :}
+
 
 My name is Bart Roels. 
 I am a Partner Technology Strategist at Microsoft Belgium.
@@ -11,4 +13,3 @@ I am focusing on Microsoft technologies, especially cloud solutions based on Mic
 I live in Belgium togheter with my wife Katrien and my son Joren. I am also a plus dad for Maren and Yentl.
 
 ![Image of my family](img/myfamily.jpg){: .shadow}{: .center-block :}
-
