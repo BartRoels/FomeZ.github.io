@@ -10,7 +10,7 @@ I live in Belgium togheter with my wife Katrien and my son Joren. I am also a pl
 ![Image of my family](img/myfamily.jpg){: .shadow}{: .center-block :}
 
 
-I am a Partner Technology Strategist at Microsoft Belgium, focusing on Microsoft technologies, especially cloud solutions based on Microsoft Azure, Azure Stack, ARM, Terraform, AKS, ...
+I work as a Partner Technology Strategist at Microsoft Belgium, focusing on Microsoft technologies, especially cloud solutions based on Microsoft Azure, Azure Stack, ARM, Terraform, AKS, ...
 
 ![AZ-900 - Microsoft Azure Fundamentals]({{site.baseurl}}/img/Microsoft-Azure-Fundamentals.png "AZ-900 - Microsoft Azure Fundamentals"){:height="110px" width="110px"}
 ![MS-900 - Microsoft 365 Fundamentals]({{site.baseurl}}/img/Microsoft-365-Fundamentals.png "MS-900 - Microsoft 365 Fundamentals"){:height="110px" width="110px"}
