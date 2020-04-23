@@ -10,7 +10,7 @@ I am focusing on Microsoft technologies, especially cloud solutions based on Mic
 ![Microsoft-Azure-Fundamentals.png]({{site.baseurl}}/img/Microsoft-Azure-Fundamentals.png)![Microsoft-365-Fundamentals.png]({{site.baseurl}}/img/Microsoft-365-Fundamentals.png)![Microsoft-Power-Platform-Fundamentals.png]({{site.baseurl}}/img/Microsoft-Power-Platform-Fundamentals.png)![Microsoft-Global-Challenger.png]({{site.baseurl}}/img/Microsoft-Global-Challenger.png)
 
 Older once (still need to refresh them, but on my planning for summer 2020!)
-![Microsoft_Exam533.png]({{site.baseurl}}/img/Microsoft_Exam533.png =250x)![Microsoft_Exam534.png]({{site.baseurl}}/img/Microsoft_Exam534.png =250x)
+![Microsoft_Exam533.png]({{site.baseurl}}/img/Microsoft_Exam533.png =250x250)![Microsoft_Exam534.png]({{site.baseurl}}/img/Microsoft_Exam534.png =250x250)
 
 I live in Belgium togheter with my wife Katrien and my son Joren. I am also a plus dad for Maren and Yentl.
 
