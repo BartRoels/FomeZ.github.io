@@ -279,6 +279,8 @@ Whatever is your methodology and use case for hunting, Azure Sentinel is a great
 - Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjRd01jxCSmbydt0){:target="_blank"}
 - Blog post: [Extending Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/extending-azure-sentinel-apis-integration-and-management/ba-p/1116885){:target="_blank"}: APIs, Integration and management automation
 
+[BackToTop](#TopOfPage)
+
 ### Deploying and Managing Azure Sentinel as Code
 
 - [Blog](https://techcommunity.microsoft.com/t5/azure-sentinel/deploying-and-managing-azure-sentinel-as-code/ba-p/1131928){:target="_blank"} by [Javier Soriano](https://www.linkedin.com/in/sorianojavier/){:target="_blank"} and [Philippe Zenhaeusern](https://www.linkedin.com/in/philippe-zenhaeusern/){:target="_blank"}
