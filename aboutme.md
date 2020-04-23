@@ -3,7 +3,7 @@ layout: page
 title: About me
 published: true
 ---
-![AzureNinjaCatLogo](img/AzureNinjaCatLogo.jpg){: .shadow}{: .right :}{:.rounded}
+![AzureNinjaCatLogo](img/AzureNinjaCatLogo.jpg){: .shadow}{ .center-block :}{:.rounded}
 
 
 My name is Bart Roels. 
