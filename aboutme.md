@@ -12,7 +12,7 @@ I am focusing on Microsoft technologies, especially cloud solutions based on Mic
 Older once (still need to refresh them, but on my planning for summer 2020!)
 ![Microsoft_Exam533.png]({{site.baseurl}}/img/Microsoft_Exam533.png =250x250)
 ![Microsoft_Exam534.png]({{site.baseurl}}/img/Microsoft_Exam534.png)
-<img src="{{site.baseurl}}/img/Microsoft_Exam534.png" width="40%">
+<img src="{{site.baseurl}}/img/Microsoft_Exam534.png" width="40%" hight="10%">
 
 I live in Belgium togheter with my wife Katrien and my son Joren. I am also a plus dad for Maren and Yentl.
 
