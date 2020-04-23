@@ -9,7 +9,8 @@ I am focusing on Microsoft technologies, especially cloud solutions based on Mic
 
 ![Microsoft-Azure-Fundamentals.png]({{site.baseurl}}/img/Microsoft-Azure-Fundamentals.png){:height="110px" width="110px"}
 ![Microsoft-365-Fundamentals.png]({{site.baseurl}}/img/Microsoft-365-Fundamentals.png){:height="110px" width="110px"}
-![Microsoft-Power-Platform-Fundamentals.png]({{site.baseurl}}/img/Microsoft-Power-Platform-Fundamentals.png)![Microsoft-Global-Challenger.png]({{site.baseurl}}/img/Microsoft-Global-Challenger.png){:height="110px" width="110px"}
+![Microsoft-Power-Platform-Fundamentals.png]({{site.baseurl}}/img/Microsoft-Power-Platform-Fundamentals.png){:height="110px" width="110px"}
+![Microsoft-Global-Challenger.png]({{site.baseurl}}/img/Microsoft-Global-Challenger.png){:height="110px" width="110px"}
 
 Older once (still need to refresh them, but on my planning for summer 2020!)
 ![Microsoft_Exam533.png]({{site.baseurl}}/img/Microsoft_Exam533.png){:height="110px" width="110px"}
