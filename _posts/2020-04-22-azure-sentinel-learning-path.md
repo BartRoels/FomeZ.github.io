@@ -50,6 +50,8 @@ As not everyone has the same maturity level when starting their Azure Sentinel L
 
 - Automating and integrating 
 
+- Deploying and Managing Azure Sentinel as Code
+
 - Roadmap - since it requires an NDA, contact your Microsoft contact for details.
 
 - Where to go next?
