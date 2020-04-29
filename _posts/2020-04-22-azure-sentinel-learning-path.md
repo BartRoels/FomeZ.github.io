@@ -307,7 +307,7 @@ Since roadmap information is provided under NDA, please reach out to your Micros
 
 ### Extra Resources
 
-- A Lab w/ Prerecorded Data 😈 & a Custom Logs Pipe via ARM Templates 🚀 ([Blog](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-to-go-part1-a-lab-w-prerecorded-data-amp-a-custom/ba-p/1260191){:target="_blank"})
+- Build an Azure Sentinel Lab with prerecorded Data & a Custom Logs Pipe via ARM Templates ([Blog](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-to-go-part1-a-lab-w-prerecorded-data-amp-a-custom/ba-p/1260191){:target="_blank"})
 - Azure Sentinel's Resources in one place! [Blog](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-resource-terminus-board-here/ba-p/1269252?_lrsc=7eb54028-6f6b-449d-8d31-f83f6a8f9cf2){:target="_blank"}
 - Learn Azure Sentinel ([eBook/Print](https://www.packtpub.com/eu/security/learn-azure-sentinel){:target="_blank"})
 - Azure Sentinel Planning ([ebook/Print](https://www.microsoftpressstore.com/store/microsoft-azure-sentinel-planning-and-implementing-9780136485452){:target="_blank"})
@@ -315,3 +315,6 @@ Since roadmap information is provided under NDA, please reach out to your Micros
 - Step-by-Step Guide to Deploy Azure Sentinel ([Blog](https://www.infusedinnovations.com/blog/intelligent-cloud/step-by-step-guide-to-deploy-azure-sentinel){:target="_blank"})
 
 [BackToTop](#TopOfPage)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwOTU1OTE2MThdfQ==
+-->
