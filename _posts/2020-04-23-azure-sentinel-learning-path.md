@@ -310,7 +310,7 @@ Since roadmap information is provided under NDA, please reach out to your Micros
 - Build an Azure Sentinel Lab with prerecorded Data and a Custom Logs Pipe via ARM Templates 🚀 ([Blog](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-to-go-part1-a-lab-w-prerecorded-data-amp-a-custom/ba-p/1260191){:target="_blank"})
 - Azure Sentinel's Resources in one place! ([Blog](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-resource-terminus-board-here/ba-p/1269252?_lrsc=7eb54028-6f6b-449d-8d31-f83f6a8f9cf2){:target="_blank"})
 - PACKT: Learn Azure Sentinel ([eBook/Print](https://www.packtpub.com/eu/security/learn-azure-sentinel){:target="_blank"})
-- MICROSOFT PRESS: Azure Senitnel Planning ([eBook/Print](https://www.microsoftpressstore.com/store/microsoft-azure-sentinel-planning-and-implementing-9780136485452){:target="_blank"})
+- MICROSOFT PRESS: Azure Sentinel Planning ([eBook/Print](https://www.microsoftpressstore.com/store/microsoft-azure-sentinel-planning-and-implementing-9780136485452){:target="_blank"})
 - Implementing and Administering Azure Sentinel ([Lynda.com](https://www.lynda.com/Azure-tutorials/Implementing-Administering-Azure-Sentinel/2813287-2.html){:target="_blank"})
 - Step-by-Step Guide to Deploy Azure Sentinel ([Blog](https://www.infusedinnovations.com/blog/intelligent-cloud/step-by-step-guide-to-deploy-azure-sentinel){:target="_blank"})
 
