@@ -4,7 +4,7 @@ title: All You Need To Know on Windows Virtual Desktop
 image: /img/WVD-Logo.jpg
 published: true
 ---
-Last Updated: 02/May/2020
+_Last Update: 2/May/2020_
 
 I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop in Azure. I try to update the list from time to time.
 
