@@ -4,6 +4,8 @@ title: All You Need To Know on Windows Virtual Desktop
 image: /img/WVD-Logo.jpg
 published: true
 ---
+Last Updated: 02/May/2020
+
 I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop in Azure. I try to update the list from time to time.
 
 ###  Relevant exams
@@ -95,6 +97,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop - #17 - Image Management ([Here](https://www.youtube.com/watch?v=PCWJEoG8X-I){:target="_blank"})
 - Windows Virtual Desktop - #18 - Ezeep for Azure ([Here](https://www.youtube.com/watch?v=Y1ac8iEc_ic){:target="_blank"})
 - Windows Virtual Desktop - #19 - Stateless VMs ([Here](https://www.youtube.com/watch?v=GyXx5Er9jYo&amp;t=2s){:target="_blank"})
+- Windows Virtual Desktop - #20 - New WVD Admin Portal ([Here](https://www.youtube.com/watch?v=DrkQFSVD9Ik){:target="_blank"})
 
 #### Microsoft Tech Community
 
