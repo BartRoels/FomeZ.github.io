@@ -72,6 +72,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows 10 Enterprise multi-session FAQ ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq){:target="_blank"})
 - Azure Pricing Calculator for WVD ([Here](https://azure.microsoft.com/en-us/pricing/calculator/){:target="_blank"})
 - Windows Virtual Desktop Experience Estimator ([Here](https://azure.microsoft.com/en-us/services/virtual-desktop/assessment/){:target="_blank"})
+- Get started with the **Windows Virtual Desktop Spring 2020** Release ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/){:target="_blank"})
 
 #### WVD Architectural – Planning Poster
 
@@ -153,3 +154,8 @@ I have tried to consolidate a lot of content available online to learn and to op
 - **Windows Virtual Desktop related Blogs from Micha Wets (MVP)**
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/){:target="_blank"})
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/){:target="_blank"})
+- **Windows Virtual Desktop related Blogs from Freek Berson (MVP)**
+	- The next big innovation in Windows Virtual Desktop is here! ([Here](https://www.linkedin.com/pulse/next-big-innovation-windows-virtual-desktop-here-freek-berson/){:target="_blank"})
+- **Windows Virtual Desktop related Blogs from Christiaan Brinkhoff (Microsoft GBB WVD)**
+	- Windows Virtual Desktop technical (2020 spring update – ARM-based model public preview) deployment walkthrough ([Here](https://www.christiaanbrinkhoff.com/2020/05/01/windows-virtual-desktop-technical-2020-spring-update-arm-based-model-deployment-walkthrough/){:target="_blank"})
+    - Youtube – Windows Virtual Desktop spring update (ARM-based) Azure Portal demo ([Here](https://youtu.be/IPrc-KQ5_so/){:target="_blank"})
