@@ -73,6 +73,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Azure Pricing Calculator for WVD ([Here](https://azure.microsoft.com/en-us/pricing/calculator/){:target="_blank"})
 - Windows Virtual Desktop Experience Estimator ([Here](https://azure.microsoft.com/en-us/services/virtual-desktop/assessment/){:target="_blank"})
 - Get started with the **Windows Virtual Desktop Spring 2020** Release ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/){:target="_blank"})
+- Enable Azure Multi-Factor Authentication for Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa){:target="_blank"})
 
 #### WVD Architectural – Planning Poster
 
@@ -165,3 +166,5 @@ I have tried to consolidate a lot of content available online to learn and to op
 - **Windows Virtual Desktop related Blogs from Christiaan Brinkhoff (Microsoft GBB WVD)**
 	- Windows Virtual Desktop technical (2020 spring update – ARM-based model public preview) deployment walkthrough ([Here](https://www.christiaanbrinkhoff.com/2020/05/01/windows-virtual-desktop-technical-2020-spring-update-arm-based-model-deployment-walkthrough/){:target="_blank"})
     - Youtube – Windows Virtual Desktop spring update (ARM-based) Azure Portal demo ([Here](https://youtu.be/IPrc-KQ5_so/){:target="_blank"})
+    - The future of application virtualization. Learn here how to create and configure MSIX app attach package(s) containers on Windows 10 Enterprise multi and single-session for Windows Virtual Desktop ([Here](https://www.christiaanbrinkhoff.com/2020/05/28/the-future-of-application-virtualization-learn-here-how-to-create-and-configure-msix-app-attach-packages-containers-on-windows-10-enterprise-multi-and-single-session-build-2004-and-higher-for-win/){:target="_blank"})
+    - Learn how to install and configure Microsoft Teams with AV Redirection media optimizations on Windows Virtual Desktop ([Here](https://www.christiaanbrinkhoff.com/2020/05/29/learn-how-to-install-and-configure-microsoft-teams-with-av-redirection-media-optimizations-on-windows-virtual-desktop/){:target="_blank"})
