@@ -122,6 +122,8 @@ I have tried to consolidate a lot of content available online to learn and to op
   - Windows Virtual Desktop - How-to - Step 3: Optimize ([Here](https://www.youtube.com/watch?v=I8gcl8Zvcps){:target="_blank"})
 - Windows Virtual Desktop on Azure - (GA) Released ([Here](https://www.youtube.com/watch?v=QLDu6QVohEI&amp;list=PLXtHYVsvn_b8KAKw44YUpghpD6lg-EHev&amp;index=5){:target="_blank"})
 - Windows Virtual Desktop - upcoming admin experience + recent updates (Microsoft Ignite) ([Here](https://www.youtube.com/watch?v=dCR9U7bODm0&amp;list=PLXtHYVsvn_b8KAKw44YUpghpD6lg-EHev&amp;index=6){:target="_blank"})
+- How to migrate Virtual Desktop Infrastructure (VDI) to Azure and Windows Virtual Desktop ([Here](https://youtu.be/rkKaWT-tN54){:target="_blank"})
+- Windows Virtual Desktop updates for admins (2020) ([Here](https://youtu.be/zmsTD9Hd-xY){:target="_blank"})
 
 #### Accelerate Your Windows Virtual Desktop Deployment (Introducing WVD Spring 2020 Edition!)
 
@@ -136,6 +138,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Deployment best practices for latency-sensitive workloads ([Here](https://medius.studios.ms/Embed/video-nc/Denis-Gundarev){:target="_blank"})
 
 #### US Partner Windows Virtual Desktop Resource GitHub Repository ([Here](https://github.com/Azure/azure-ocp-samples/tree/master/Windows%20Virtual%20Desktop){:target="_blank"})
+- Windows Virtual Desktop Cost Solution Configurator ([Here](https://github.com/Azure/azure-ocp-samples/blob/master/Windows%20Virtual%20Desktop/Pricing/Solution%20Configurator%20.xlsm){:target="_blank"}) + documentation ([Here](https://github.com/Azure/azure-ocp-samples/blob/master/Windows%20Virtual%20Desktop/Pricing/Solution%20Configurator%20How%20To.pptx){:target="_blank"})
 
 #### Ciraltos - Travis Roberts - YouTube Video's
 
