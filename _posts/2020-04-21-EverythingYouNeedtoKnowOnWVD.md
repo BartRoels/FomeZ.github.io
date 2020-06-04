@@ -98,7 +98,12 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop - #17 - Image Management ([Here](https://www.youtube.com/watch?v=PCWJEoG8X-I){:target="_blank"})
 - Windows Virtual Desktop - #18 - Ezeep for Azure ([Here](https://www.youtube.com/watch?v=Y1ac8iEc_ic){:target="_blank"})
 - Windows Virtual Desktop - #19 - Stateless VMs ([Here](https://www.youtube.com/watch?v=GyXx5Er9jYo&amp;t=2s){:target="_blank"})
-- Windows Virtual Desktop - #20 - New WVD Admin Portal ([Here](https://www.youtube.com/watch?v=DrkQFSVD9Ik){:target="_blank"})
+- Windows Virtual Desktop - #20 - New WVD Admin Portal ([Here](https://youtu.be/DrkQFSVD9Ik){:target="_blank"})
+- Windows Virtual Desktop - #21 - WVD Network Security ([Here](https://youtu.be/up90eL2Bbho){:target="_blank"})
+- Windows Virtual Desktop - #22 - WVD Identity Security ([Here](https://youtu.be/31DQ8JuLQes){:target="_blank"})
+- Windows Virtual Desktop - #23 - Update Session Hosts from Latest Image ([Here](https://youtu.be/2LxvwR9LGWQ){:target="_blank"})
+- Windows Virtual Desktop - #24 - Session Host Security ([Here](https://youtu.be/5aK6BoXcZnU){:target="_blank"})
+- Windows Virtual Desktop - #25 - TEAMS AV Redirections ([Here](https://youtu.be/RfbolIgPcBY){:target="_blank"})
 
 #### Microsoft Tech Community
 
