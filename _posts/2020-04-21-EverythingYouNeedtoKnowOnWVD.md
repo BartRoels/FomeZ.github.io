@@ -145,11 +145,16 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Automatically Start and Stop VM's in a Windows Virtual Desktop Host Pool with Azure Automation ([Here](https://www.youtube.com/watch?v=EUpPY6ateKA){:target="_blank"})
 - Azure Windows Virtual Desktop Load Balancing ([Here](https://www.youtube.com/watch?v=dRTcLtKVWZE){:target="_blank"})
 - Azure Windows Virtual Desktop Service Principal Deployment! ([Here](https://www.youtube.com/watch?v=bqyy4kxZy7Y){:target="_blank"})
+- Windows Virtual Desktop (WVD) Spring Update ([Here](https://youtu.be/AKBa7kLhghI){:target="_blank"})
+- Windows Virtual Desktop Validation Host Pools ([Here](https://youtu.be/n_P0MhRzrRw){:target="_blank"})
+- Windows Virtual Desktop JoinDomain Error ([Here](https://youtu.be/1RCCjpsTqcI){:target="_blank"})
 
 #### Blog Posts
 
 - Deploying Windows Virtual Desktop host pools with Terraform ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploying-windows-virtual-desktop-host-pools-with-terraform/ba-p/1225555){:target="_blank"})
 - How to deploy a Windows Virtual Desktop host pool using Infrastructure as code from Azure DevOps (by Tom Hickling) ([Here](http://xenithit.blogspot.com/2020/03/how-to-deploy-windows-virtual-dekstop.html){:target="_blank"})
+
+
 - **Windows Virtual Desktop related Blogs from Robin Hobo (MVP)** ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/){:target="_blank"})
   - How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop hostpool ([Here](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/){:target="_blank"})
   - How to start OneDrive (and automatically sign-in) when using a RemoteApp in Windows Virtual Desktop ([Here](https://www.robinhobo.com/how-to-start-onedrive-and-automatically-sign-in-when-using-a-remoteapp-in-windows-virtual-desktop-wvd/){:target="_blank"})
