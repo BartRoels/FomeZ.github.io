@@ -111,6 +111,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - A guide to Windows Virtual Desktop at Microsoft Ignite 2019 ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/A-guide-to-Windows-Virtual-Desktop-at-Microsoft-Ignite-2019/ba-p/976831){:target="_blank"})
 - Getting started with FSLogix profile containers on Azure Files in Windows Virtual Desktop ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Getting-started-with-FSLogix-profile-containers-on-Azure-Files/ba-p/746477){:target="_blank"})
 - Getting started with Windows Virtual Desktop ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Getting-started-with-Windows-Virtual-Desktop/ba-p/391054){:target="_blank"})
+- Getting started: Windows Virtual Desktop ARM-based Azure portal ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/getting-started-windows-virtual-desktop-arm-based-azure-portal/ba-p/1374466){:target="_blank"})
 
 #### Microsoft Mechanics
 
