@@ -149,6 +149,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop Validation Host Pools ([Here](https://youtu.be/n_P0MhRzrRw){:target="_blank"})
 - Windows Virtual Desktop JoinDomain Error ([Here](https://youtu.be/1RCCjpsTqcI){:target="_blank"})
 
+
 #### Blog Posts
 
 - Deploying Windows Virtual Desktop host pools with Terraform ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploying-windows-virtual-desktop-host-pools-with-terraform/ba-p/1225555){:target="_blank"})
