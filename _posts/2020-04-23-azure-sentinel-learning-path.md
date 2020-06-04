@@ -125,7 +125,9 @@ An Azure Sentinel instance is called a workspace. Multiple workspaces are often 
 
 - Webinar: [Video](https://youtu.be/_mm3GNwPBHU){:target="_blank"}
 - Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjuszn8-jty5Gbx7){:target="_blank"}
-- You may also want to register for the MSSP and distributed organization webinar on April 20th [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNlI1UjZJTzlCM0Q2M1dNMk1NQjJSTFM4OC4u){:target="_blank"} 
+- MSSP and Distributed Organization Support
+	- Webinar: [Video](https://youtu.be/hwahlwgJPnE){:target="_blank"}
+    - Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgkkYuxOITkGSI7x8){:target="_blank"}
 
 **Learn more**
 
@@ -190,8 +192,10 @@ An Azure Sentinel instance is called a workspace. Multiple workspaces are often 
 
 
 - Webinar: [Video](https://youtu.be/_mm3GNwPBHU){:target="_blank"}
-- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjuszn8-jty5Gbx7){:target="_blank"} 
-- You may also want to register for the MSSP and distributed organization webinar on April 20th [here](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_0A4IaJRDNBnp8pjCkWnwhUNlI1UjZJTzlCM0Q2M1dNMk1NQjJSTFM4OC4u){:target="_blank"} 
+- Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgjuszn8-jty5Gbx7){:target="_blank"}
+- MSSP and Distributed Organization Support
+	- Webinar: [Video](https://youtu.be/hwahlwgJPnE){:target="_blank"}
+    - Webinar: [Presentation](https://1drv.ms/b/s!AnEPjr8tHcNmgkkYuxOITkGSI7x8){:target="_blank"}
 
 **Learn more**
 
