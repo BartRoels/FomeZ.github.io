@@ -161,11 +161,19 @@ I have tried to consolidate a lot of content available online to learn and to op
   - How to create a custom Windows 10 multi-user image with LOB applications for Windows Virtual Desktop Preview Hostpool deployments ([Here](https://www.robinhobo.com/how-to-create-a-custom-windows-10-multi-user-image-with-lob-applications-for-windows-virtual-desktop-preview-wvd-hostpool-deployments/){:target="_blank"})
   - How to fix &quot;Server App&quot; is not consented, so please consent Server App.&quot; error when logging in to the Windows Virtual Desktop (WVD) Management Tool ([Here](https://www.robinhobo.com/how-to-fix-server-app-is-not-consented-so-please-consent-server-app-error-when-logging-in-to-the-windows-virtual-desktop-wvd-management-tool/){:target="_blank"})
   - How to deploy Windows Virtual Desktop (Preview) and publish a Full Desktop and the Microsoft Office 365 ProPlus applications ([Here](https://www.robinhobo.com/how-to-deploy-windows-virtual-desktop-preview-and-publish-a-full-desktop-and-the-microsoft-office-365-proplus-applications/){:target="_blank"})
+  
+  
 - **Windows Virtual Desktop related Blogs from Micha Wets (MVP)**
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/){:target="_blank"})
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/){:target="_blank"})
+  
+  
 - **Windows Virtual Desktop related Blogs from Freek Berson (MVP)**
 	- The next big innovation in Windows Virtual Desktop is here! ([Here](https://www.linkedin.com/pulse/next-big-innovation-windows-virtual-desktop-here-freek-berson/){:target="_blank"})
+    - Migrating your existing WVD Workloads to WVD Spring Update! ([Here](https://medium.com/wortell/migrating-your-existing-wvd-workloads-to-wvd-spring-update-df942e1db5af){:target="_blank"})
+    - Using WVD to provide secure and easy access to a management server in Azure! ([Here](https://medium.com/wortell/using-wvd-to-provide-secure-and-easy-access-to-a-management-server-in-azure-dd4b48649e5c){:target="_blank"})
+    
+    
 - **Windows Virtual Desktop related Blogs from Christiaan Brinkhoff (Microsoft GBB WVD)**
 	- Windows Virtual Desktop technical (2020 spring update – ARM-based model public preview) deployment walkthrough ([Here](https://www.christiaanbrinkhoff.com/2020/05/01/windows-virtual-desktop-technical-2020-spring-update-arm-based-model-deployment-walkthrough/){:target="_blank"})
     - Youtube – Windows Virtual Desktop spring update (ARM-based) Azure Portal demo ([Here](https://youtu.be/IPrc-KQ5_so/){:target="_blank"})
