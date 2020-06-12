@@ -178,6 +178,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 	- The next big innovation in Windows Virtual Desktop is here! ([Here](https://www.linkedin.com/pulse/next-big-innovation-windows-virtual-desktop-here-freek-berson/){:target="_blank"})
     - Migrating your existing WVD Workloads to WVD Spring Update! ([Here](https://medium.com/wortell/migrating-your-existing-wvd-workloads-to-wvd-spring-update-df942e1db5af){:target="_blank"})
     - Using WVD to provide secure and easy access to a management server in Azure! ([Here](https://medium.com/wortell/using-wvd-to-provide-secure-and-easy-access-to-a-management-server-in-azure-dd4b48649e5c){:target="_blank"})
+    - Test driving the Microsoft Teams AV Redirection and media optimizations preview for WVD! ([Here](https://medium.com/wortell/test-driving-the-microsoft-teams-av-redirection-and-media-optimizations-preview-for-wvd-ffd14ea26719){:target="_blank"}) 
     
 - **Windows Virtual Desktop related Blogs from [Patrick Kohler](https://wvdlogix.net/about){:target="_blank"}**
 	- Windows Virtual Desktop Host Pool Automation - Part 1 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation){:target="_blank"})
