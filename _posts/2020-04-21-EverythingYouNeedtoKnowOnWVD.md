@@ -105,6 +105,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop - #23 - Update Session Hosts from Latest Image ([Here](https://youtu.be/2LxvwR9LGWQ){:target="_blank"})
 - Windows Virtual Desktop - #24 - Session Host Security ([Here](https://youtu.be/5aK6BoXcZnU){:target="_blank"})
 - Windows Virtual Desktop - #25 - TEAMS AV Redirections ([Here](https://youtu.be/RfbolIgPcBY){:target="_blank"})
+- Windows Virtual Desktop - #26 - GPU Powered VMs ([Here](https://youtu.be/IiRyc26_lds){:target="_blank"})
 
 #### Microsoft Tech Community
 
