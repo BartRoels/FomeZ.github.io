@@ -174,11 +174,11 @@ I have tried to consolidate a lot of content available online to learn and to op
   - How to publish the Remote Server Administration Tools (RSAT) with Windows Virtual Desktop (WVD) ([Here](https://www.robinhobo.com/how-to-publish-the-remote-server-administration-tools-rsat-with-windows-virtual-desktop-wvd/){:target="_blank"})
   - How to get the Windows Virtual Desktop – Remote Desktop client for Windows – Insider version ([Here](https://www.robinhobo.com/how-to-get-the-windows-virtual-desktop-remote-desktop-client-for-windows-insider-version/){:target="_blank"})
   
-- **Windows Virtual Desktop related Blogs from Micha Wets (MVP)**
+- **Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/){:target="_blank"}**
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/){:target="_blank"})
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/){:target="_blank"})
     
-- **Windows Virtual Desktop related Blogs from Freek Berson (MVP)**
+- **Windows Virtual Desktop related Blogs from [Freek Berson (MVP)](https://www.linkedin.com/in/freekberson/){:target="_blank"}**
 	- The next big innovation in Windows Virtual Desktop is here! ([Here](https://www.linkedin.com/pulse/next-big-innovation-windows-virtual-desktop-here-freek-berson/){:target="_blank"})
     - Migrating your existing WVD Workloads to WVD Spring Update! ([Here](https://medium.com/wortell/migrating-your-existing-wvd-workloads-to-wvd-spring-update-df942e1db5af){:target="_blank"})
     - Using WVD to provide secure and easy access to a management server in Azure! ([Here](https://medium.com/wortell/using-wvd-to-provide-secure-and-easy-access-to-a-management-server-in-azure-dd4b48649e5c){:target="_blank"})
