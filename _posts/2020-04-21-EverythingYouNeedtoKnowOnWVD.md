@@ -173,21 +173,25 @@ I have tried to consolidate a lot of content available online to learn and to op
   - How to change the default Windows Virtual Desktop “SessionDesktop” name to a more friendly one with PowerShell or GUI ([Here](https://www.robinhobo.com/how-to-change-the-default-windows-virtual-desktop-sessiondesktop-name-to-a-more-friendly-one-with-powershell/){:target="_blank"})
   - How to publish the Remote Server Administration Tools (RSAT) with Windows Virtual Desktop (WVD) ([Here](https://www.robinhobo.com/how-to-publish-the-remote-server-administration-tools-rsat-with-windows-virtual-desktop-wvd/){:target="_blank"})
   - How to get the Windows Virtual Desktop – Remote Desktop client for Windows – Insider version ([Here](https://www.robinhobo.com/how-to-get-the-windows-virtual-desktop-remote-desktop-client-for-windows-insider-version/){:target="_blank"})
+
   
 - **Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/){:target="_blank"}**
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/){:target="_blank"})
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/){:target="_blank"})
+
     
 - **Windows Virtual Desktop related Blogs from [Freek Berson (MVP)](https://www.linkedin.com/in/freekberson/){:target="_blank"}**
 	- The next big innovation in Windows Virtual Desktop is here! ([Here](https://www.linkedin.com/pulse/next-big-innovation-windows-virtual-desktop-here-freek-berson/){:target="_blank"})
     - Migrating your existing WVD Workloads to WVD Spring Update! ([Here](https://medium.com/wortell/migrating-your-existing-wvd-workloads-to-wvd-spring-update-df942e1db5af){:target="_blank"})
     - Using WVD to provide secure and easy access to a management server in Azure! ([Here](https://medium.com/wortell/using-wvd-to-provide-secure-and-easy-access-to-a-management-server-in-azure-dd4b48649e5c){:target="_blank"})
-    - Test driving the Microsoft Teams AV Redirection and media optimizations preview for WVD! ([Here](https://medium.com/wortell/test-driving-the-microsoft-teams-av-redirection-and-media-optimizations-preview-for-wvd-ffd14ea26719){:target="_blank"}) 
+    - Test driving the Microsoft Teams AV Redirection and media optimizations preview for WVD! ([Here](https://medium.com/wortell/test-driving-the-microsoft-teams-av-redirection-and-media-optimizations-preview-for-wvd-ffd14ea26719){:target="_blank"})
+
     
 - **Windows Virtual Desktop related Blogs from [Patrick Kohler](https://wvdlogix.net/about){:target="_blank"}**
 	- Windows Virtual Desktop Host Pool Automation - Part 1 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation){:target="_blank"})
     - Windows Virtual Desktop Host Pool Automation - Part 2 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation-2){:target="_blank"})
-    - The complete guide: Microsoft Teams on WVD ([Here](https://wvdlogix.net/complete-guide-teams-on-wvd){:target="_blank"})  
+    - The complete guide: Microsoft Teams on WVD ([Here](https://wvdlogix.net/complete-guide-teams-on-wvd){:target="_blank"})
+
     
 - **Windows Virtual Desktop related Blogs from [Christiaan Brinkhoff](https://www.christiaanbrinkhoff.com/about-me/){:target="_blank"} (Microsoft GBB WVD)**
 	- Windows Virtual Desktop technical (2020 spring update – ARM-based model public preview) deployment walkthrough ([Here](https://www.christiaanbrinkhoff.com/2020/05/01/windows-virtual-desktop-technical-2020-spring-update-arm-based-model-deployment-walkthrough/){:target="_blank"})
