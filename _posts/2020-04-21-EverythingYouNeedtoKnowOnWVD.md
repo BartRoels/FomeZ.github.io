@@ -149,6 +149,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop (WVD) Spring Update ([Here](https://youtu.be/AKBa7kLhghI){:target="_blank"})
 - Windows Virtual Desktop Validation Host Pools ([Here](https://youtu.be/n_P0MhRzrRw){:target="_blank"})
 - Windows Virtual Desktop JoinDomain Error ([Here](https://youtu.be/1RCCjpsTqcI){:target="_blank"})
+- Auto Start and Stop Session Hosts in Windows Virtual Desktop Spring Update (ARM) with Azure Function ([Here](https://youtu.be/gdrYMPwCB9w){:target="_blank"})
 
 
 #### Blog Posts
