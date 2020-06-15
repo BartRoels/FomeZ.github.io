@@ -79,33 +79,9 @@ I have tried to consolidate a lot of content available online to learn and to op
 
 - Desktop virtualization using Windows Virtual Desktop-service architecture ([Here](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png){:target="_blank"})
 
-#### Azure Academy ([Here](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ/videos?view=0&amp;sort=dd&amp;flow=grid){:target="_blank"}) (Thank You! [Dean Cefola](https://twitter.com/MSAzureAcademy){:target="_blank"})
+#### Windows Virtual Desktop UserVoice
 
-- Windows Virtual Desktop - #01 - Deployment ([Here](https://www.youtube.com/watch?v=qtx3rippZJQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=13){:target="_blank"})
-- Windows Virtual Desktop - #02 - Management ([Here](https://www.youtube.com/watch?v=1q2ecz_mYeA&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=12){:target="_blank"})
-- Windows Virtual Desktop - #03 - User Profiles ([Here](https://www.youtube.com/watch?v=_aIKvkGNOmE&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=11){:target="_blank"})
-- Windows Virtual Desktop - #04 - HA Profiles ([Here](https://www.youtube.com/watch?v=f-gBzo6Mslk&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=10){:target="_blank"})
-- Windows Virtual Desktop - #05 - User Experiences ([Here](https://www.youtube.com/watch?v=acPxLHhola0&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=9){:target="_blank"})
-- Windows Virtual Desktop - #06 - Web Management ([Here](https://www.youtube.com/watch?v=t5Vvneiy_QQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=8){:target="_blank"})
-- Windows Virtual Desktop - #07 - Scale-Out ([Here](https://www.youtube.com/watch?v=ksgBPIEgU2A&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=7){:target="_blank"})
-- Windows Virtual Desktop - #08 - WVD Azure ADDS ([Here](https://www.youtube.com/watch?v=Uayv69FZlyI&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=6){:target="_blank"})
-- Windows Virtual Desktop - #09 - WVD Diagnostics ([Here](https://www.youtube.com/watch?v=CSqY0Vtbksk&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=5){:target="_blank"})
-- Windows Virtual Desktop - #10 - WVD Automation ([Here](https://www.youtube.com/watch?v=shhP5zxqHR8&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=4){:target="_blank"})
-- Windows Virtual Desktop - #11 - WVD Monitoring ([Here](https://www.youtube.com/watch?v=dP3CQU2c-jE&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=3){:target="_blank"})
-- Windows Virtual Desktop - #12 - WVD Update Management ([Here](https://www.youtube.com/watch?v=ColvrOEw2Ek&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=2){:target="_blank"})
-- Windows Virtual Desktop - #13 - WVD MSIX App Attach ([Here](https://www.youtube.com/watch?v=6kkPLFgPaN8&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=1){:target="_blank"})
-- Windows Virtual Desktop - #14 - Scaling Automation ([Here](http://youtube.com/watch?v=FYDDmr9XUwo&amp;feature=youtu.be){:target="_blank"})
-- Windows Virtual Desktop - #16 - Azure Files AD Auth & FSLogix ([Here](https://www.youtube.com/watch?v=9S5A1IJqfOQ){:target="_blank"})
-- Windows Virtual Desktop - #17 - Image Management ([Here](https://www.youtube.com/watch?v=PCWJEoG8X-I){:target="_blank"})
-- Windows Virtual Desktop - #18 - Ezeep for Azure ([Here](https://www.youtube.com/watch?v=Y1ac8iEc_ic){:target="_blank"})
-- Windows Virtual Desktop - #19 - Stateless VMs ([Here](https://www.youtube.com/watch?v=GyXx5Er9jYo&amp;t=2s){:target="_blank"})
-- Windows Virtual Desktop - #20 - New WVD Admin Portal ([Here](https://youtu.be/DrkQFSVD9Ik){:target="_blank"})
-- Windows Virtual Desktop - #21 - WVD Network Security ([Here](https://youtu.be/up90eL2Bbho){:target="_blank"})
-- Windows Virtual Desktop - #22 - WVD Identity Security ([Here](https://youtu.be/31DQ8JuLQes){:target="_blank"})
-- Windows Virtual Desktop - #23 - Update Session Hosts from Latest Image ([Here](https://youtu.be/2LxvwR9LGWQ){:target="_blank"})
-- Windows Virtual Desktop - #24 - Session Host Security ([Here](https://youtu.be/5aK6BoXcZnU){:target="_blank"})
-- Windows Virtual Desktop - #25 - TEAMS AV Redirections ([Here](https://youtu.be/RfbolIgPcBY){:target="_blank"})
-- Windows Virtual Desktop - #26 - GPU Powered VMs ([Here](https://youtu.be/IiRyc26_lds){:target="_blank"})
+- UserVoice forum for Windows Virtual Desktop ([Here](https://windowsvirtualdesktop.uservoice.com/forums/921118-general){:target="_blank"})
 
 #### Microsoft Tech Community
 
@@ -140,6 +116,34 @@ I have tried to consolidate a lot of content available online to learn and to op
 
 #### US Partner Windows Virtual Desktop Resource GitHub Repository ([Here](https://github.com/Azure/azure-ocp-samples/tree/master/Windows%20Virtual%20Desktop){:target="_blank"})
 - Windows Virtual Desktop Cost Solution Configurator ([Here](https://github.com/Azure/azure-ocp-samples/blob/master/Windows%20Virtual%20Desktop/Pricing/Solution%20Configurator%20.xlsm){:target="_blank"}) + documentation ([Here](https://github.com/Azure/azure-ocp-samples/blob/master/Windows%20Virtual%20Desktop/Pricing/Solution%20Configurator%20How%20To.pptx){:target="_blank"})
+
+#### Azure Academy ([Here](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ/videos?view=0&amp;sort=dd&amp;flow=grid){:target="_blank"}) (Thank You! [Dean Cefola](https://twitter.com/MSAzureAcademy){:target="_blank"})
+
+- Windows Virtual Desktop - #01 - Deployment ([Here](https://www.youtube.com/watch?v=qtx3rippZJQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=13){:target="_blank"})
+- Windows Virtual Desktop - #02 - Management ([Here](https://www.youtube.com/watch?v=1q2ecz_mYeA&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=12){:target="_blank"})
+- Windows Virtual Desktop - #03 - User Profiles ([Here](https://www.youtube.com/watch?v=_aIKvkGNOmE&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=11){:target="_blank"})
+- Windows Virtual Desktop - #04 - HA Profiles ([Here](https://www.youtube.com/watch?v=f-gBzo6Mslk&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=10){:target="_blank"})
+- Windows Virtual Desktop - #05 - User Experiences ([Here](https://www.youtube.com/watch?v=acPxLHhola0&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=9){:target="_blank"})
+- Windows Virtual Desktop - #06 - Web Management ([Here](https://www.youtube.com/watch?v=t5Vvneiy_QQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=8){:target="_blank"})
+- Windows Virtual Desktop - #07 - Scale-Out ([Here](https://www.youtube.com/watch?v=ksgBPIEgU2A&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=7){:target="_blank"})
+- Windows Virtual Desktop - #08 - WVD Azure ADDS ([Here](https://www.youtube.com/watch?v=Uayv69FZlyI&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=6){:target="_blank"})
+- Windows Virtual Desktop - #09 - WVD Diagnostics ([Here](https://www.youtube.com/watch?v=CSqY0Vtbksk&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=5){:target="_blank"})
+- Windows Virtual Desktop - #10 - WVD Automation ([Here](https://www.youtube.com/watch?v=shhP5zxqHR8&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=4){:target="_blank"})
+- Windows Virtual Desktop - #11 - WVD Monitoring ([Here](https://www.youtube.com/watch?v=dP3CQU2c-jE&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=3){:target="_blank"})
+- Windows Virtual Desktop - #12 - WVD Update Management ([Here](https://www.youtube.com/watch?v=ColvrOEw2Ek&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=2){:target="_blank"})
+- Windows Virtual Desktop - #13 - WVD MSIX App Attach ([Here](https://www.youtube.com/watch?v=6kkPLFgPaN8&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=1){:target="_blank"})
+- Windows Virtual Desktop - #14 - Scaling Automation ([Here](http://youtube.com/watch?v=FYDDmr9XUwo&amp;feature=youtu.be){:target="_blank"})
+- Windows Virtual Desktop - #16 - Azure Files AD Auth & FSLogix ([Here](https://www.youtube.com/watch?v=9S5A1IJqfOQ){:target="_blank"})
+- Windows Virtual Desktop - #17 - Image Management ([Here](https://www.youtube.com/watch?v=PCWJEoG8X-I){:target="_blank"})
+- Windows Virtual Desktop - #18 - Ezeep for Azure ([Here](https://www.youtube.com/watch?v=Y1ac8iEc_ic){:target="_blank"})
+- Windows Virtual Desktop - #19 - Stateless VMs ([Here](https://www.youtube.com/watch?v=GyXx5Er9jYo&amp;t=2s){:target="_blank"})
+- Windows Virtual Desktop - #20 - New WVD Admin Portal ([Here](https://youtu.be/DrkQFSVD9Ik){:target="_blank"})
+- Windows Virtual Desktop - #21 - WVD Network Security ([Here](https://youtu.be/up90eL2Bbho){:target="_blank"})
+- Windows Virtual Desktop - #22 - WVD Identity Security ([Here](https://youtu.be/31DQ8JuLQes){:target="_blank"})
+- Windows Virtual Desktop - #23 - Update Session Hosts from Latest Image ([Here](https://youtu.be/2LxvwR9LGWQ){:target="_blank"})
+- Windows Virtual Desktop - #24 - Session Host Security ([Here](https://youtu.be/5aK6BoXcZnU){:target="_blank"})
+- Windows Virtual Desktop - #25 - TEAMS AV Redirections ([Here](https://youtu.be/RfbolIgPcBY){:target="_blank"})
+- Windows Virtual Desktop - #26 - GPU Powered VMs ([Here](https://youtu.be/IiRyc26_lds){:target="_blank"})
 
 #### Ciraltos - Travis Roberts - YouTube Video's
 
