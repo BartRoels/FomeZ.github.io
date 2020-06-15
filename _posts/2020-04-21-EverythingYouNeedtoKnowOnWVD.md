@@ -156,7 +156,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - How to deploy a Windows Virtual Desktop host pool using Infrastructure as code from Azure DevOps (by Tom Hickling) ([Here](http://xenithit.blogspot.com/2020/03/how-to-deploy-windows-virtual-dekstop.html){:target="_blank"})
 
 
-### Windows Virtual Desktop related Blogs from [Robin Hobo (MVP)](https://www.robinhobo.com/about-me/){:target="_blank"}** ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/){:target="_blank"})
+### Windows Virtual Desktop related Blogs from [Robin Hobo (MVP)](https://www.robinhobo.com/about-me/){:target="_blank"} ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/){:target="_blank"})
   - How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop hostpool ([Here](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/){:target="_blank"})
   - How to start OneDrive (and automatically sign-in) when using a RemoteApp in Windows Virtual Desktop ([Here](https://www.robinhobo.com/how-to-start-onedrive-and-automatically-sign-in-when-using-a-remoteapp-in-windows-virtual-desktop-wvd/){:target="_blank"})
   - Windows Virtual Desktop (WVD) Host Pool deployment error – Subscription is not registered ([Here](https://www.robinhobo.com/windows-virtual-desktop-wvd-host-pool-deployment-error-subscription-is-not-registered/){:target="_blank"})
@@ -174,7 +174,7 @@ I have tried to consolidate a lot of content available online to learn and to op
   - How to get the Windows Virtual Desktop – Remote Desktop client for Windows – Insider version ([Here](https://www.robinhobo.com/how-to-get-the-windows-virtual-desktop-remote-desktop-client-for-windows-insider-version/){:target="_blank"})
 
   
-### Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/){:target="_blank"}**
+### Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/){:target="_blank"}
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/){:target="_blank"})
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/){:target="_blank"})
 
