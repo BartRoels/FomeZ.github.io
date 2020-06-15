@@ -191,6 +191,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - **Windows Virtual Desktop related Blogs from [Patrick Kohler](https://wvdlogix.net/about){:target="_blank"}**
 	- Windows Virtual Desktop Host Pool Automation - Part 1 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation){:target="_blank"})
     - Windows Virtual Desktop Host Pool Automation - Part 2 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation-2){:target="_blank"})
+    - Windows Virtual Desktop Host Pool Automation - Part 3 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation-part-3){:target="_blank"})
     - The complete guide: Microsoft Teams on WVD ([Here](https://wvdlogix.net/complete-guide-teams-on-wvd){:target="_blank"})
 
     
