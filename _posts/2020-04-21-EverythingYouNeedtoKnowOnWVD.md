@@ -158,7 +158,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop JoinDomain Error ([Here](https://youtu.be/1RCCjpsTqcI){:target="_blank"})
 - Auto Start and Stop Session Hosts in Windows Virtual Desktop Spring Update (ARM) with Azure Function ([Here](https://youtu.be/gdrYMPwCB9w){:target="_blank"})
 
-#### Blogs
+#### Blogs / Video
 
 - Deploying Windows Virtual Desktop host pools with Terraform ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploying-windows-virtual-desktop-host-pools-with-terraform/ba-p/1225555){:target="_blank"})
 - How to deploy a Windows Virtual Desktop host pool using Infrastructure as code from Azure DevOps (by Tom Hickling) ([Here](http://xenithit.blogspot.com/2020/03/how-to-deploy-windows-virtual-dekstop.html){:target="_blank"})
@@ -185,7 +185,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 #### Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/){:target="_blank"}
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/){:target="_blank"})
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/){:target="_blank"})
-[//]: #  - <span style="color:red">Windows Virtual Desktop (Fall 2019 & Spring 2020 edition) - Technical Deep Dive + Hands On Workshop</span> ([Hands On Lab](https://aka.ms/WVDWorkshop){:target="_blank"}) ([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf){:target="_blank"})
+  - <span style="color:red">Windows Virtual Desktop (Fall 2019 & Spring 2020 edition) - Technical Deep Dive + Hands On Workshop</span> (Hands On Lab) ([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf){:target="_blank"})(Video)
 
     
 #### Windows Virtual Desktop related Blogs from [Freek Berson (MVP)](https://www.linkedin.com/in/freekberson/){:target="_blank"}
