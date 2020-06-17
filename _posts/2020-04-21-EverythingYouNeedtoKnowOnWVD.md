@@ -162,7 +162,8 @@ I have tried to consolidate a lot of content available online to learn and to op
 
 - Deploying Windows Virtual Desktop host pools with Terraform ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploying-windows-virtual-desktop-host-pools-with-terraform/ba-p/1225555){:target="_blank"})
 - How to deploy a Windows Virtual Desktop host pool using Infrastructure as code from Azure DevOps (by Tom Hickling) ([Here](http://xenithit.blogspot.com/2020/03/how-to-deploy-windows-virtual-dekstop.html){:target="_blank"})
-- Windows Virtual Desktop and IGEL OS : Better Together ([Webinar](https://youtu.be/dNi7_lpK-no){:target="_blank"})  
+- Windows Virtual Desktop and IGEL OS : Better Together ([Webinar](https://youtu.be/dNi7_lpK-no){:target="_blank"})
+- WVD Demos Spring 2020: Guided Simulation for Windows Virtual Desktop. ([Here](https://octe.blob.core.windows.net/microsoft/Windows%20Virtual%20Desktop/WVD%20Spring%202020%20Updates%20Draft2/index.html#/0/0){:target="_blank"})
 
 #### Windows Virtual Desktop related Blogs from [Robin Hobo (MVP)](https://www.robinhobo.com/about-me/){:target="_blank"} ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/){:target="_blank"})
   - How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop hostpool ([Here](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/){:target="_blank"})
