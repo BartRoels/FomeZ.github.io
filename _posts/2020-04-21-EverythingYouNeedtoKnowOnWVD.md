@@ -4,7 +4,7 @@ title: All You Need To Know on Windows Virtual Desktop
 image: /img/WVD-Logo.jpg
 published: true
 ---
-_Last Update: June 15, 2020_
+_Last Update: June 17, 2020_
 
 <span style="color:red">**Windows Virtual Desktop Hands-On session requirements:**</span>
 ![WVDHands-On_Labs-Requirements.png]({{site.baseurl}}/img/WVDHands-On_Labs-Requirements.png)
@@ -185,7 +185,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 #### Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/){:target="_blank"}
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/){:target="_blank"})
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/){:target="_blank"})
-  - Windows Virtual Desktop (Fall 2019 & Spring 2020 edition) - Technical Deep Dive + Hands On Workshop([Hands On Lab](https://aka.ms/WVDWorkshop){:target="_blank"})([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf){:target="_blank"})
+  - <span style="color:red">Windows Virtual Desktop (Fall 2019 & Spring 2020 edition) - Technical Deep Dive + Hands On Workshop</span>([Hands On Lab](https://aka.ms/WVDWorkshop){:target="_blank"})([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf){:target="_blank"})
 
     
 #### Windows Virtual Desktop related Blogs from [Freek Berson (MVP)](https://www.linkedin.com/in/freekberson/){:target="_blank"}
