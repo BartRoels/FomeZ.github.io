@@ -162,6 +162,8 @@ I have tried to consolidate a lot of content available online to learn and to op
 
 - Deploying Windows Virtual Desktop host pools with Terraform ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploying-windows-virtual-desktop-host-pools-with-terraform/ba-p/1225555){:target="_blank"})
 - How to deploy a Windows Virtual Desktop host pool using Infrastructure as code from Azure DevOps (by Tom Hickling) ([Here](http://xenithit.blogspot.com/2020/03/how-to-deploy-windows-virtual-dekstop.html){:target="_blank"})
+- Windows Virtual Desktop and IGEL OS : Better Together ([Webinar](https://youtu.be/dNi7_lpK-no){:target="_blank"})
+
 
 
 #### Windows Virtual Desktop related Blogs from [Robin Hobo (MVP)](https://www.robinhobo.com/about-me/){:target="_blank"} ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/){:target="_blank"})
