@@ -186,7 +186,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 #### Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/){:target="_blank"}
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/){:target="_blank"})
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/){:target="_blank"})
-  - <span style="color:red">Windows Virtual Desktop (Fall 2019 & Spring 2020 edition) - Technical Deep Dive + Hands On Workshop</span> (Hands On Lab) ([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf){:target="_blank"}) ([Video Part 1](https://youtu.be/__Z4-zCNdlI){:target="_blank"})
+  - <span style="color:red">Windows Virtual Desktop (Fall 2019 & Spring 2020 edition) - Technical Deep Dive + Hands On Workshop</span> (Hands On Lab) ([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf){:target="_blank"}) ([Video Part 1](https://youtu.be/__Z4-zCNdlI){:target="_blank"}) (Video Part 2) (Video Part 3)
 
     
 #### Windows Virtual Desktop related Blogs from [Freek Berson (MVP)](https://www.linkedin.com/in/freekberson/){:target="_blank"}
