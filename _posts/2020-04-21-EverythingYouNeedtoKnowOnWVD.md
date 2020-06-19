@@ -4,7 +4,7 @@ title: All You Need To Know on Windows Virtual Desktop
 image: /img/WVD-Logo.jpg
 published: true
 ---
-_Last Update: June 17, 2020_
+_Last Update: June 19, 2020_
 
 <span style="color:red">**Windows Virtual Desktop Hands-On session requirements:**</span>
 ![WVDHands-On_Labs-Requirements.png]({{site.baseurl}}/img/WVDHands-On_Labs-Requirements.png)
