@@ -6,9 +6,6 @@ published: true
 ---
 _Last Update: June 19, 2020_
 
-<span style="color:red">**Windows Virtual Desktop Hands-On session requirements:**</span>
-![WVDHands-On_Labs-Requirements.png]({{site.baseurl}}/img/WVDHands-On_Labs-Requirements.png)
-
 I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop in Azure. I try to update the list from time to time.
 
 ###  Relevant exams
