@@ -193,6 +193,8 @@ I have tried to consolidate a lot of content available online to learn and to op
   - Migrating your existing WVD Workloads to WVD Spring Update! ([Here](https://medium.com/wortell/migrating-your-existing-wvd-workloads-to-wvd-spring-update-df942e1db5af){:target="_blank"})
   - Using WVD to provide secure and easy access to a management server in Azure! ([Here](https://medium.com/wortell/using-wvd-to-provide-secure-and-easy-access-to-a-management-server-in-azure-dd4b48649e5c){:target="_blank"})
   - Test driving the Microsoft Teams AV Redirection and media optimizations preview for WVD! ([Here](https://medium.com/wortell/test-driving-the-microsoft-teams-av-redirection-and-media-optimizations-preview-for-wvd-ffd14ea26719){:target="_blank"})
+  - New GitHub Script: Automating the transformation of MSIX packages into MSIX app attach, ready for WVD! ([Here](https://medium.com/wortell/new-github-script-automating-the-transformation-of-msix-packages-into-msix-app-attach-ready-for-4802a9820183){:target="_blank"})  
+  
 
     
 #### Windows Virtual Desktop related Blogs from [Patrick Kohler](https://wvdlogix.net/about){:target="_blank"}
