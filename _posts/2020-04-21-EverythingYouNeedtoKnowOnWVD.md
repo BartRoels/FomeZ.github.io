@@ -74,7 +74,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop Experience Estimator ([Here](https://azure.microsoft.com/en-us/services/virtual-desktop/assessment/){:target="_blank"})
 - Get started with the **Windows Virtual Desktop Spring 2020** Release ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/){:target="_blank"})
 - Enable Azure Multi-Factor Authentication for Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa){:target="_blank"})
-- What's new in Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/whats-new){:target="_blank"})
+- 📢 What's new in Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/whats-new){:target="_blank"})
 
 #### WVD Architectural – Planning Poster
 
