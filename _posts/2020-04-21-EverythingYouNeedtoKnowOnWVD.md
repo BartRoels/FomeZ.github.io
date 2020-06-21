@@ -183,7 +183,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 #### Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/){:target="_blank"}
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/){:target="_blank"})
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/){:target="_blank"})
-  - Windows virtual desktop ARM templates for the Spring 2020 edition ([Here](https://www.cloud-architect.be/2020/06/19/windows-virtual-desktop-arm-templates-for-the-spring-2020-edition/){:target="_blank"})  
+  - Windows virtual desktop ARM templates for the Spring 2020 edition ([Here](https://www.cloud-architect.be/2020/06/19/windows-virtual-desktop-arm-templates-for-the-spring-2020-edition/){:target="_blank"})
   
   - 📢 <span style="color:red">Windows Virtual Desktop (Fall 2019 & Spring 2020 edition) - Technical Deep Dive + Hands On Workshop</span>  ([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf){:target="_blank"}) ([Video Part 1](https://youtu.be/__Z4-zCNdlI){:target="_blank"}) ([Video Part 2](https://youtu.be/_j3IQfPfo_Q){:target="_blank"}) ([Video Part 3](https://youtu.be/6WCqaWWtyfY){:target="_blank"}) ([Hands On Lab Instructions](https://aka.ms/WVDWorkshop){:target="_blank"})
 
