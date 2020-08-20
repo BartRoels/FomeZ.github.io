@@ -21,7 +21,7 @@ I work as a Partner Technology Strategist at Microsoft Belgium, focusing on Micr
 
 ![Microsoft Global Challenger]({{site.baseurl}}/img/Microsoft-Global-Challenger.png "Microsoft Global Challenger"){:height="110px" width="110px"}
 
-Older once, still need to refresh them, but on my planning for summer 2020!Still on track to replace them by the end of the year with AZ-303 and AZ-304.
+Older once, still need to refresh them, but on my planning for summer 2020! Still on track to replace them by the end of the year with AZ-303 and AZ-304.
 
 ![70-533 - Implementing Microsoft Azure Infrastructure Solutions]({{site.baseurl}}/img/Microsoft_Exam533.png "70-533 - Implementing Microsoft Azure Infrastructure Solutions"){:height="110px" width="110px"}
 ![70-534 - Architecting Microsoft Azure Solutions]({{site.baseurl}}/img/Microsoft_Exam534.png "70-534 - Architecting Microsoft Azure Solutions"){:height="110px" width="110px"}
