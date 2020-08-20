@@ -17,6 +17,7 @@ I work as a Partner Technology Strategist at Microsoft Belgium, focusing on Micr
 ![PL-900 - Microsoft Power Platform Fundamentals]({{site.baseurl}}/img/Microsoft-Power-Platform-Fundamentals.png "PL-900 - Microsoft Power Platform Fundamentals"){:height="110px" width="110px"}
 ![MB-901 - Microsoft Dynamics 365 Fundamentals]({{site.baseurl}}/img/Microsoft-Dynamics-365-Fundamentals.png  "MB-901 - Microsoft Dynamics 365 Fundamentals"){:height="110px" width="110px"}
 ![Microsoft Global Challenger]({{site.baseurl}}/img/Microsoft-Global-Challenger.png "Microsoft Global Challenger"){:height="110px" width="110px"}
+![AZ-104 - Microsoft Certified Azure Administrator Associate]({{site.baseurl}}/img/microsoft-certified-azure-administrator-associate-az-104.png "AZ-104 - Microsoft Certified Azure Administrator Associate"){:height="110px" width="110px"}
 
 Older once, still need to refresh them, but on my planning for summer 2020!
 
