@@ -20,6 +20,7 @@ I work as a Partner Technology Strategist at Microsoft Belgium, focusing on Micr
 ![AZ-104 - Microsoft Certified Azure Administrator Associate]({{site.baseurl}}/img/microsoft-certified-azure-administrator-associate-az-104.png "AZ-104 - Microsoft Certified Azure Administrator Associate"){:height="110px" width="110px"}
 
 ![Microsoft Global Challenger]({{site.baseurl}}/img/Microsoft-Global-Challenger.png "Microsoft Global Challenger"){:height="110px" width="110px"}
+![Microsoft Global Challenger]({{site.baseurl}}/img/openhack-containers.png "Microsoft OpenHack Containers"){:height="110px" width="110px"}
 
 Older once, still need to refresh them, but on my planning for summer 2020! Still on track to replace them by the end of the year with AZ-303 and AZ-304.
 
