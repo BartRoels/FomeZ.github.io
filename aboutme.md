@@ -19,10 +19,9 @@ I work as a Cloud Solution Architect at Microsoft Belgium, focusing on Microsoft
 
 ![AZ-104 - Microsoft Certified Azure Administrator Associate]({{site.baseurl}}/img/microsoft-certified-azure-administrator-associate-az-104.png "AZ-104 - Microsoft Certified Azure Administrator Associate"){:height="110px" width="110px"}
 
+![AZ-303 - Microsoft Azure Architect Technologies]({{site.baseurl}}/img/EXAM-Expert-AZ-303-600x600.png "AZ-303 - Microsoft Azure Architect Technologies"){:height="110px" width="110px"}
+![AZ-304 - Microsoft Azure Architect Design]({{site.baseurl}}/img/EXAM-Expert-AZ-304-600x600.png "AZ-304 - Microsoft Azure Architect Design"){:height="110px" width="110px"}
+
 ![Microsoft Global Challenger]({{site.baseurl}}/img/Microsoft-Global-Challenger.png "Microsoft Global Challenger"){:height="110px" width="110px"}
 ![Microsoft Global Challenger]({{site.baseurl}}/img/openhack-containers.png "Microsoft OpenHack Containers"){:height="110px" width="110px"}
 
-Older once, still need to refresh them, but on my planning for summer 2020! Still on track to replace them by the end of the year with AZ-303 and AZ-304.
-
-![70-533 - Implementing Microsoft Azure Infrastructure Solutions]({{site.baseurl}}/img/Microsoft_Exam533.png "70-533 - Implementing Microsoft Azure Infrastructure Solutions"){:height="110px" width="110px"}
-![70-534 - Architecting Microsoft Azure Solutions]({{site.baseurl}}/img/Microsoft_Exam534.png "70-534 - Architecting Microsoft Azure Solutions"){:height="110px" width="110px"}
