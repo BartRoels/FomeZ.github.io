@@ -12,7 +12,7 @@ I live in Belgium togheter with my wife Katrien and my son Joren. I am also a pl
 
 I work as a Cloud Solution Architect at Microsoft Belgium, focusing on Microsoft technologies, especially cloud solutions based on Microsoft Azure, Azure Stack, ARM, Terraform, AKS, ...
 
-![AZ-900 - Microsoft Azure Fundamentals](/img/Microsoft-Azure-Fundamentals.png "AZ-900 - Microsoft Azure Fundamentals")
+![AZ-900 - Microsoft Azure Fundamentals](/img/ "AZ-900 - Microsoft Azure Fundamentals")
 ![MS-900 - Microsoft 365 Fundamentals](/img/Microsoft-365-Fundamentals.png "MS-900 - Microsoft 365 Fundamentals")
 ![PL-900 - Microsoft Power Platform Fundamentals](/img/Microsoft-Power-Platform-Fundamentals.png "PL-900 - Microsoft Power Platform Fundamentals")
 ![MB-901 - Microsoft Dynamics 365 Fundamentals](/img/Microsoft-Dynamics-365-Fundamentals.png  "MB-901 - Microsoft Dynamics 365 Fundamentals")
