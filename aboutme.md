@@ -23,9 +23,10 @@ I work as a Cloud Solution Architect at Microsoft Belgium, focusing on Microsoft
 ![AZ-303 - Microsoft Azure Architect Technologies](/img/az-303-microsoft-azure-architect-technologies.png "AZ-303 - Microsoft Azure Architect Technologies")
 ![AZ-304 - Microsoft Azure Architect Design](/img/az-304-microsoft-azure-architect-design.png "AZ-304 - Microsoft Azure Architect Design")
 
-![Microsoft Certified: Azure Solutions Architect Expert](/img/azure-solutions-architect-expert-600x600.png "Microsoft Certified: Azure Solutions Architect Expert")
+![Microsoft Certified: Azure Solutions Architect Expert](/img/microsoft-certified-azure-solutions-architect-expert.1.png "Microsoft Certified: Azure Solutions Architect Expert")
 
 
-![Microsoft Global Challenger](/img/Microsoft-Global-Challenger.png "Microsoft Global Challenger")
-![Microsoft Global Challenger](/img/openhack-containers.png "Microsoft OpenHack Containers")
-
+![Microsoft Global Challenger](/img/microsoft-global-challenger.png "Microsoft Global Challenger")
+![Microsoft OpenHack Containers](/img/openhack-containers.png "Microsoft OpenHack Containers")
+![Microsoft OpenHack Migrating Microsoft workloads to Azure](/img/openhack-migrating-microsoft-workloads-to-azure.png "Microsoft OpenHack Migrating Microsoft workloads to Azure")
+![Migrating Microsoft Workloads to Azure - Coach](/img/migrating-microsoft-workloads-to-azure-coach.png "Migrating Microsoft Workloads to Azure - Coach")
