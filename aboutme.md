@@ -20,8 +20,8 @@ I work as a Cloud Solution Architect at Microsoft Belgium, focusing on Microsoft
 ![AZ-104 - Microsoft Certified Azure Administrator Associate](/img/microsoft-certified-azure-administrator-associate.2.png "AZ-104 - Microsoft Certified Azure Administrator Associate")
 ![AZ-700 - Microsoft Certified Azure Network Engineer Associate](/img/microsoft-certified-azure-network-engineer-associate.png "AZ-700 - Microsoft Certified Azure Network Engineer Associate")
 
-![AZ-303 - Microsoft Azure Architect Technologies](/img/EXAM-Expert-AZ-303-600x600.png "AZ-303 - Microsoft Azure Architect Technologies")
-![AZ-304 - Microsoft Azure Architect Design](/img/EXAM-Expert-AZ-304-600x600.png "AZ-304 - Microsoft Azure Architect Design")
+![AZ-303 - Microsoft Azure Architect Technologies](/img/az-303-microsoft-azure-architect-technologies.png "AZ-303 - Microsoft Azure Architect Technologies")
+![AZ-304 - Microsoft Azure Architect Design](/img/az-304-microsoft-azure-architect-design.png "AZ-304 - Microsoft Azure Architect Design")
 
 ![Microsoft Certified: Azure Solutions Architect Expert](/img/azure-solutions-architect-expert-600x600.png "Microsoft Certified: Azure Solutions Architect Expert")
 
