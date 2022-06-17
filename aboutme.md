@@ -12,6 +12,9 @@ I live in Belgium togheter with my wife Katrien and my son Joren. I am also a pl
 
 I work as a Cloud Solution Architect at Microsoft Belgium, focusing on Microsoft technologies, especially cloud solutions based on Microsoft Azure, Azure Stack, ARM, Terraform, AKS, ...
 
+![Senior Technical Leadership Program - Alumni](/img/senior-technical-leadership-program-alumni.png "Senior Technical Leadership Program - Alumni")
+
+
 ![AZ-900 - Microsoft Azure Fundamentals](/img/microsoft-certified-azure-fundamentals.png "AZ-900 - Microsoft Azure Fundamentals")
 ![MS-900 - Microsoft 365 Fundamentals](/img/microsoft-365-certified-fundamentals.png "MS-900 - Microsoft 365 Fundamentals")
 ![PL-900 - Microsoft Power Platform Fundamentals](/img/microsoft-certified-power-platform-fundamentals.png "PL-900 - Microsoft Power Platform Fundamentals")
@@ -28,9 +31,14 @@ I work as a Cloud Solution Architect at Microsoft Belgium, focusing on Microsoft
 ![Microsoft Certified Trainer 2021-2022](/img/microsoft-certified-trainer-2021-2022.png "Microsoft Certified Trainer 2021-2022")
 ![Microsoft Certified Trainer 2022-2023](/img/microsoft-certified-trainer-2022-2023.png "Microsoft Certified Trainer 2022-2023")
 
-
-![Microsoft Global Challenger](/img/microsoft-global-challenger.png "Microsoft Global Challenger")
+![Onboarding Buddy Gold](/img/onboarding-buddy-gold.png "Onboarding Buddy Gold")
+![Event Speaker Silver](/img/event-speaker-silver.33.png "Event Speaker Silver")
 
 ![Microsoft OpenHack Containers](/img/openhack-containers.png "Microsoft OpenHack Containers")
 ![Microsoft OpenHack Migrating Microsoft workloads to Azure](/img/openhack-migrating-microsoft-workloads-to-azure.png "Microsoft OpenHack Migrating Microsoft workloads to Azure")
 ![Migrating Microsoft Workloads to Azure - Coach](/img/migrating-microsoft-workloads-to-azure-coach.png "Migrating Microsoft Workloads to Azure - Coach")
+
+![Microsoft Certified Trainer 2021-2022](/img/microsoft-certified-trainer-2021-2022.png "Microsoft Certified Trainer 2021-2022")
+![Microsoft Certified Trainer 2022-2023](/img/microsoft-certified-trainer-2022-2023.png "Microsoft Certified Trainer 2022-2023")
+
+![Microsoft Global Challenger](/img/microsoft-global-challenger.png "Microsoft Global Challenger")
