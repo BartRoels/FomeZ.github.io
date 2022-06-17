@@ -17,7 +17,7 @@ I work as a Cloud Solution Architect at Microsoft Belgium, focusing on Microsoft
 ![PL-900 - Microsoft Power Platform Fundamentals](/img/microsoft-certified-power-platform-fundamentals.png "PL-900 - Microsoft Power Platform Fundamentals")
 ![MB-901 - Microsoft Dynamics 365 Fundamentals](/img/microsoft-certified-dynamics-365-fundamentals.1.png  "MB-901 - Microsoft Dynamics 365 Fundamentals")
 
-![AZ-104 - Microsoft Certified Azure Administrator Associate](/img/microsoft-certified-azure-administrator-associate-az-104.png "AZ-104 - Microsoft Certified Azure Administrator Associate")
+![AZ-104 - Microsoft Certified Azure Administrator Associate](/img/microsoft-certified-azure-administrator-associate.2.png "AZ-104 - Microsoft Certified Azure Administrator Associate")
 ![AZ-700 - Microsoft Certified Azure Network Engineer Associate](/img/microsoft-certified-azure-network-engineer-associate.png "AZ-700 - Microsoft Certified Azure Network Engineer Associate")
 
 ![AZ-303 - Microsoft Azure Architect Technologies](/img/EXAM-Expert-AZ-303-600x600.png "AZ-303 - Microsoft Azure Architect Technologies")
